@@ -1,0 +1,248 @@
+{
+  "homepages": [
+    {
+      "id": 1,
+      "title": "Home Default",
+      "image": "h-d.jpg",
+      "link": "/home-default"
+    },
+    {
+      "id": 2,
+      "title": "Home Three Column",
+      "image": "h-3-c.jpg",
+      "link": "/home-three-column"
+    },
+    {
+      "id": 3,
+      "title": "Home Four Column",
+      "image": "h-4-c.jpg",
+      "link": "/home-four-column"
+    },
+    {
+      "id": 4,
+      "title": "Home Five Column",
+      "image": "h-5-c.jpg",
+      "link": "/home-five-column"
+    },
+    {
+      "id": 5,
+      "title": "Home Personal Portfolio",
+      "image": "h-p-p.jpg",
+      "link": "/home-personal-portfolio"
+    },
+    {
+      "id": 6,
+      "title": "Home Freelancer Portfolio",
+      "image": "h-f-p.jpg",
+      "link": "/home-freelancer-portfolio"
+    },
+    {
+      "id": 7,
+      "title": "Home Blog",
+      "image": "h-blog.jpg",
+      "link": "/home-blog"
+    }
+  ],
+  "otherpages": [
+    {
+      "id": 1,
+      "title": "About",
+      "image": "about.jpg",
+      "link": "/about"
+    },
+    {
+      "id": 2,
+      "title": "Services",
+      "image": "services.jpg",
+      "link": "/service"
+    },
+    {
+      "id": 3,
+      "title": "Team",
+      "image": "team.jpg",
+      "link": "/team"
+    },
+    {
+      "id": 4,
+      "title": "Contact",
+      "image": "contact.jpg",
+      "link": "/contact"
+    },
+    {
+      "id": 5,
+      "title": "Portfolio Grid Two Column",
+      "image": "p-g-2-c.jpg",
+      "link": "/portfolio-grid-two-column"
+    },
+    {
+      "id": 6,
+      "title": "Portfolio Grid Three Column",
+      "image": "p-g-3-c.jpg",
+      "link": "/portfolio-grid-three-column"
+    },
+    {
+      "id": 7,
+      "title": "Portfolio Grid Four Column",
+      "image": "p-g-4-c.jpg",
+      "link": "/portfolio-grid-four-column"
+    },
+    {
+      "id": 8,
+      "title": "Portfolio Grid Three Column FullWidth",
+      "image": "p-g-3-c-f.jpg",
+      "link": "/portfolio-grid-three-column-fullwidth"
+    },
+    {
+      "id": 9,
+      "title": "Portfolio Grid Four Column FullWidth",
+      "image": "p-g-4-c-f.jpg",
+      "link": "/portfolio-grid-four-column-fullwidth"
+    },
+    {
+      "id": 10,
+      "title": "Portfolio Grid Five Column FullWidth",
+      "image": "p-g-5-c-f.jpg",
+      "link": "/portfolio-grid-five-column-fullwidth"
+    },
+    {
+      "id": 11,
+      "title": "Portfolio Masonry Two Column",
+      "image": "p-m-2-c.jpg",
+      "link": "/portfolio-masonry-two-column"
+    },
+    {
+      "id": 12,
+      "title": "Portfolio Masonry Three Column",
+      "image": "p-m-3-c.jpg",
+      "link": "/portfolio-masonry-three-column"
+    },
+    {
+      "id": 13,
+      "title": "Portfolio Masonry Four Column",
+      "image": "p-m-4-c.jpg",
+      "link": "/portfolio-masonry-four-column"
+    },
+    {
+      "id": 14,
+      "title": "Portfolio Masonry Three Column Fullwidth",
+      "image": "p-m-3-c-f.jpg",
+      "link": "/portfolio-masonry-three-column-fullwidth"
+    },
+    {
+      "id": 15,
+      "title": "Portfolio Masonry Four Column Fullwidth",
+      "image": "p-m-4-c-f.jpg",
+      "link": "/portfolio-masonry-four-column-fullwidth"
+    },
+    {
+      "id": 16,
+      "title": "Portfolio Masonry Five Column Fullwidth",
+      "image": "p-m-5-c-f.jpg",
+      "link": "/portfolio-masonry-five-column-fullwidth"
+    },
+    {
+      "id": 17,
+      "title": "Portfolio Details",
+      "image": "portfolio-details.jpg",
+      "link": "/portfolio-details"
+    },
+    {
+      "id": 18,
+      "title": "Blog Three Column",
+      "image": "b-3-c.jpg",
+      "link": "/blog"
+    },
+    {
+      "id": 19,
+      "title": "Blog Two Column Left Sidebar",
+      "image": "b-2-c-l-s.jpg",
+      "link": "/blog-two-column-left-sidebar"
+    },
+    {
+      "id": 20,
+      "title": "Blog Two Column Right Sidebar",
+      "image": "b-2-c-r-s.jpg",
+      "link": "/blog-two-column-right-sidebar"
+    },
+    {
+      "id": 21,
+      "title": "Blog Details",
+      "image": "b-d-r-s.jpg",
+      "link": "/blog-details"
+    },
+    {
+      "id": 22,
+      "title": "Blog Details Left Sidebar",
+      "image": "b-d-l-s.jpg",
+      "link": "/blog-details-left-sidebar"
+    },
+    {
+      "id": 23,
+      "title": "404 Error",
+      "image": "error.jpg",
+      "link": "/raju"
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "name": "React (16.x.x)",
+      "logo": "react.svg"
+    },
+    {
+      "id": 2,
+      "name": "No jQuery Dependency",
+      "logo": "no-jquery.png"
+    },
+    {
+      "id": 3,
+      "name": "SASS (SCSS)",
+      "logo": "sass.png"
+    },
+    {
+      "id": 4,
+      "name": "React Bootstrap",
+      "logo": "bootstrap.png"
+    },
+    {
+      "id": 5,
+      "name": "Fully Responsive",
+      "logo": "responsive.png"
+    },
+    {
+      "id": 6,
+      "name": "Slick Carousel",
+      "logo": "slick.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Fontawesone Icons",
+      "logo": "fontawesome.png"
+    },
+    {
+      "id": 8,
+      "name": "Google Fonts",
+      "logo": "google-font.png"
+    },
+    {
+      "id": 9,
+      "name": "Clean Code",
+      "logo": "code.png"
+    },
+    {
+      "id": 10,
+      "name": "Speed Optimized",
+      "logo": "speed.png"
+    },
+    {
+      "id": 11,
+      "name": "WELL DOCUMENTED",
+      "logo": "document.png"
+    },
+    {
+      "id": 12,
+      "name": "24/7 SUPPORT",
+      "logo": "support.png"
+    }
+  ]
+}

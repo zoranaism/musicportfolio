@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "name": "LEBMID JONSON",
+    "designation": "Senior Developer",
+    "profilePhoto": "team-1.jpg",
+    "socials": [
+      {
+        "id": 1,
+        "media": "facebook",
+        "username": "hasthemes"
+      },
+      {
+        "id": 2,
+        "media": "twitter",
+        "username": "hasthemes"
+      },
+      {
+        "id": 3,
+        "media": "dribbble",
+        "username": "hastech"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Raju Ahammad",
+    "designation": "HTML Coder",
+    "profilePhoto": "team-2.jpg",
+    "socials": [
+      {
+        "id": 1,
+        "media": "facebook",
+        "username": "rajuahammadfans"
+      },
+      {
+        "id": 2,
+        "media": "twitter",
+        "username": "rajuahammadfans"
+      },
+      {
+        "id": 3,
+        "media": "dribbble",
+        "username": "rajuahammadfans"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "KB Arif",
+    "designation": "Creative Designer",
+    "profilePhoto": "team-3.jpg",
+    "socials": [
+      {
+        "id": 1,
+        "media": "facebook",
+        "username": "kbarif"
+      },
+      {
+        "id": 2,
+        "media": "twitter",
+        "username": "kbarif"
+      },
+      {
+        "id": 3,
+        "media": "dribbble",
+        "username": "kbarif"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Charlie Puth",
+    "designation": "Shopify Experts",
+    "profilePhoto": "team-4.jpg",
+    "socials": [
+      {
+        "id": 1,
+        "media": "facebook",
+        "username": "rajuahammadfans"
+      },
+      {
+        "id": 2,
+        "media": "twitter",
+        "username": "rajuahammadfans"
+      },
+      {
+        "id": 3,
+        "media": "github",
+        "username": "rajuahammadfans"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Jeremy Scott",
+    "designation": "Front End Devs",
+    "profilePhoto": "team-5.jpg",
+    "socials": [
+      {
+        "id": 1,
+        "media": "facebook",
+        "username": "rajuahammadfans"
+      },
+      {
+        "id": 2,
+        "media": "twitter",
+        "username": "rajuahammadfans"
+      },
+      {
+        "id": 3,
+        "media": "github",
+        "username": "rajuahammadfans"
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "thumb": "about.jpg",
+  "bio": "There are many variations of passages of Lorem available, but the lteration in some form, by injected humour lebmid ipsum by injected humour lebmid. There are many variations of passages of Lorem, but the majority have suffered lebmid by injected.",
+  "skype": "jonathon.haris111",
+  "availability": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Telegu"
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "title": "Graphic Design",
+      "percentage": 75
+    },
+    {
+      "id": 2,
+      "title": "Photoshop",
+      "percentage": 90
+    },
+    {
+      "id": 3,
+      "title": "Web Design",
+      "percentage": 80
+    }
+  ]
+}
