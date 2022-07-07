@@ -172,6 +172,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   background-color: $grey !important;
 }
 
+.bg-opacity-light {
+  opacity: 0.4;
+}
+
 /*-- 
     - Tab Content & Pane Fix
 ------------------------------------------*/

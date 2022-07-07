@@ -2,43 +2,13 @@
   {
     "id": 1,
     "title": "Home",
-    "link": "/",
+    "link": "/home-personal-portfolio",
     "megaMenu": false,
     "subMenu": [
-      {
-        "id": 1.1,
-        "title": "Home Default",
-        "link": "/home-default"
-      },
-      {
-        "id": 1.2,
-        "title": "Home Three Column",
-        "link": "/home-three-column"
-      },
-      {
-        "id": 1.3,
-        "title": "Home Four Column",
-        "link": "/home-four-column"
-      },
-      {
-        "id": 1.4,
-        "title": "Home Five Column",
-        "link": "/home-five-column"
-      },
-      {
-        "id": 1.5,
-        "title": "Home Blog",
-        "link": "/home-blog"
-      },
       {
         "id": 1.6,
         "title": "Home Personal Portfolio",
         "link": "/home-personal-portfolio"
-      },
-      {
-        "id": 1.7,
-        "title": "Home Freelance Portfolio",
-        "link": "/home-freelancer-portfolio"
       }
     ]
   },

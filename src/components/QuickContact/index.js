@@ -5,16 +5,16 @@ const QuickContact = ({phone, email, location}) => {
         <div className="contact-info">
             <h3>QUICK CONTACT</h3>
             <ul>
-                <li>
+                {/* <li>
                     <span>Phone:</span>
-                    <a href={`tel:${phone}`}>{phone}</a>
-                </li>
+                    <a href={`tel:${phone}`}>0684359770</a>
+                </li> */}
                 <li>
                     <span>Email:</span>
-                    <a href={`mailto:${email}`}>{email}</a>
+                    <a href={`mailto:zoranaism@gmail.com`}>zoranaism@gmail.com</a>
                 </li>
                 <li>
-                    <span>Location:</span>{location}
+                    <span>Location:</span>Den Bosch, The Netherlands
                 </li>
             </ul>
         </div>

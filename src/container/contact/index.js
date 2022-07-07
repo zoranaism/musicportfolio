@@ -13,12 +13,12 @@ const Contact = () => {
                     <Row>
                         <Col lg={6} className={'mb-sm-45 mb-xs-45'}>
                             <Row>
-                                <Col lg={10} className={'mb-45'}>
+                                {/* <Col lg={10} className={'mb-45'}>
                                     <div className="contact-form">
                                         <h3>CONTACT FORM</h3>
                                         <Form/>
                                     </div>
-                                </Col>
+                                </Col> */}
 
                                 <Col lg={10}>
                                     <QuickContact
@@ -30,13 +30,13 @@ const Contact = () => {
                             </Row>
                         </Col>
 
-                        <Col lg={6}>
+                        {/* <Col lg={6}>
                             <Map
                                 text={'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid'}
                                 lat={40.6971494}
                                 long={-74.2598661}
                             />
-                        </Col>
+                        </Col> */}
                     </Row>
                 </Container>
             </div>

@@ -1,35 +1,86 @@
-import React from 'react';
-import {Container, Row, Col} from 'react-bootstrap'
+import React from "react";
+import { Container, Row, Col } from "react-bootstrap";
 import Thumbnail from "../../components/thumbnail";
 import Content from "../../components/content";
 import Skill from "../../components/skill";
-import aboutData from '../../data/about-me'
+import aboutData from "../../data/about-me";
 
-const AboutMe = ({type}) => {
-    return (
-        <div className={type !== 'page' ? 'section-padding section' : null}>
-            <Container>
-                <Row className={'align-items-center'}>
-                    <Col lg={6}>
-                        <Thumbnail classes={'about-thumbnail mb-md-30 mb-sm-30 mb-xs-30'} thumb={`about/${aboutData.thumb}`}/>
-                    </Col>
+const AboutMe = ({ type }) => {
+  return (
+    <div className={type !== "page" ? "section-padding section" : null}>
+      <Container>
+        <Row className={"align-items-center"}>
+          <Col lg={6}>
+            <Thumbnail
+              classes={"about-thumbnail mb-md-30 mb-sm-30 mb-xs-30"}
+              thumb={`singleportoflio/${aboutData.thumb}`}
+            />
+          </Col>
 
-                    <Col lg={6}>
-                        <Content classes={'about-content'}>
-                            {type !== 'page' ? (<h3 className="block-title">ABOUT ME</h3>) : null}
-                            <p>{aboutData.bio}</p>
-                            <ul className="personal-info">
-                                <li><span>Skype:</span>{aboutData.skype}</li>
-                                <li><span>Freelance:</span>{aboutData.availability ? 'Available' : 'Not Available'}</li>
-                                <li>
-                                    <span>Language:</span>
-                                    {aboutData.languages.map((language, index) => (
-                                        <p key={index} style={{display: 'inline-block'}}>{`${language},  `}</p>
-                                    ))}
-                                </li>
-                            </ul>
+          <Col lg={6}>
+            <Content classes={"about-content"}>
+              {type !== "page" ? (
+                <h3 className="block-title">RELEASE INFO</h3>
+              ) : null}
+              {/* <p>{aboutData.bio}</p> */}
+              <ul className="personal-info">
+                <li>
+                  <span>Song:</span>Embrace all
+                </li>
+                <li>
+                  <span>Artist:</span>Purple Drip
+                </li>
+                <li>
+                  <span>Release Date:</span>31st July 2022
+                </li>
+                <li>
+                  <span>Genre:</span>Hybrid between downtempo, chillwave, indie,
+                  electronica, and prog rock
+                </li>
+                <li>
+                  <span>Sounds like:</span>Moby, Royksopp, Efterklang, Tycho,
+                  Hybrid
+                </li>
+                <li>
+                  <span>ISRC:</span>QZK6L2294240
+                </li>
+                <li>
+                  <span>UPC:</span>197045875653
+                </li>
+                <li>
+                  <span>Location:</span>Netherlands
+                </li>
+                <li>
+                  <span>Band members:</span>Zorana and Milan
+                </li>
+                <li>
+                  <span>Song and Lyrics:</span>Zorana
+                </li>
+                <li>
+                  <span>Main mixing engeneer:</span>Milan
+                </li>
+                <li>
+                  <span>Mixing assistant:</span>Zorana
+                </li>
+                <li>
+                  <span>Master:</span>Milan
+                </li>
+                <li>
+                  <span>Animation:</span>Cris
+                </li>
+                <li>
+                  <span>Photography:</span>Zorana and Stephie
+                </li>
+                <li>
+                  <span>Brand:</span>Zorana and Stephan
+                </li>
+                <li>
+                  <span>PR and marketing:</span>Zorana
+                </li>
+               
+              </ul>
 
-                            <h3 className="block-title">Skill</h3>
+              {/* <h3 className="block-title">Skill</h3>
 
                             <div className="skill-wrap">
                                 {aboutData.skills.map(skill => (
@@ -39,13 +90,13 @@ const AboutMe = ({type}) => {
                                         percentage={skill.percentage}
                                     />
                                 ))}
-                            </div>
-                        </Content>
-                    </Col>
-                </Row>
-            </Container>
-        </div>
-    );
+                            </div> */}
+            </Content>
+          </Col>
+        </Row>
+      </Container>
+    </div>
+  );
 };
 
 export default AboutMe;

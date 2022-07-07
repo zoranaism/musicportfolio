@@ -9,6 +9,8 @@ import PersonalPortfolioTeam from "../../container/team";
 import PersonalPortfolioService from "../../container/service";
 import PersonalPortfolio from "../../container/portfolio/PersonalPortfolio";
 import BannerPersonalPortfolio from "../../components/HeroBanner/PersonalPortfolio";
+import ContentAboutPage from "../../templates/about-page";
+
 
 const HomePersonalPortfolio = () => {
     return (
@@ -16,8 +18,10 @@ const HomePersonalPortfolio = () => {
             <Header classes={'position-static'}/>
             <SideHeader mobile={true}/>
             <BannerPersonalPortfolio/>
-            <PersonalPortfolio/>
+            <ContentAboutPage/>
+
             <PersonalPortfolioService/>
+            <PersonalPortfolio/>
             <PersonalPortfolioTeam/>
             <Contact/>
             <Footer position={'static'}/>

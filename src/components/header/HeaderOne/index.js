@@ -1,19 +1,26 @@
-import React from 'react';
+import React from "react";
 import Logo from "../../logo";
 import NavBar from "../../navbar";
 import HeaderSocial from "../../HeaderSocial";
 import HeaderContainer from "../../../container/header";
+import { Container, Row } from "react-bootstrap";
 
-const Header = ({classes}) => {
-    return (
-        <HeaderContainer classes={classes ? classes : null}>
-            <Logo/>
+const Header = ({ classes }) => {
+  return (
+    <HeaderContainer classes={classes ? classes : null}>
+      <Container>
+        {/* <Logo/> */}
 
-            <NavBar/>
+        <Row >
+          <h2>zoranaism</h2>
 
-            <HeaderSocial/>
-        </HeaderContainer>
-    );
+          {/* <NavBar/> */}
+
+          <HeaderSocial />
+        </Row>
+      </Container>
+    </HeaderContainer>
+  );
 };
 
 export default Header;
