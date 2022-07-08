@@ -1,6 +1,6 @@
 import React from "react";
 import HeroBannerContainer from "../../../container/HeroBanner";
-import bannerBg from "../../../assets/images/singleportoflio/banner.png";
+import bannerBg from "../../../assets/images/singleportoflio/animation.webp";
 import personalInfo from "../../../data/personalInfo";
 
 const BannerPersonalPortfolio = () => {

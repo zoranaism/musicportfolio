@@ -98,7 +98,7 @@ const App = () => {
                     <Route path={`${process.env.PUBLIC_URL + "/home-default"}`}
                            component={HomeDefault}/>
                     <Route exact path={`${process.env.PUBLIC_URL + "/"}`}
-                           component={HomeDefault}
+                           component={HomePersonalPortfolio}
                     />
                     <Route exact component={ErrorPage}/>
                 </Switch>

@@ -9,14 +9,14 @@ const Header = ({ classes }) => {
   return (
     <HeaderContainer classes={classes ? classes : null}>
       <Container>
-        {/* <Logo/> */}
+        <Row>
+          {/* <Logo/> */}
 
-        <Row >
-          <h2>zoranaism</h2>
+          <h2 style={{ height: "100px", lineHeight: "100px" }}>zoranaism</h2>
 
           {/* <NavBar/> */}
 
-          <HeaderSocial />
+          {/* <HeaderSocial /> */}
         </Row>
       </Container>
     </HeaderContainer>

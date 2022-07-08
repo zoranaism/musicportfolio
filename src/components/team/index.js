@@ -8,7 +8,7 @@ const Team = ({name, designation, profilePhoto, socials}) => {
                 <div className="team-content">
                     <h4>{name}</h4>
                     <span>{designation}</span>
-                    <div className="team-social">
+                    {/* <div className="team-social">
                         {socials.map(icon => (
                             <a key={icon.id}
                                href={`https://${icon.media}.com/${icon.username}`}
@@ -18,7 +18,7 @@ const Team = ({name, designation, profilePhoto, socials}) => {
                                 <i className={`fa fa-${icon.media}`}/>
                             </a>
                         ))}
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>

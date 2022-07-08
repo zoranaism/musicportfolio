@@ -16,14 +16,15 @@ const HomePersonalPortfolio = () => {
     return (
         <div className={'main-wrapper p-0'}>
             <Header classes={'position-static'}/>
-            <SideHeader mobile={true}/>
+            {/* <SideHeader mobile={true}/> */}
             <BannerPersonalPortfolio/>
             <ContentAboutPage/>
 
             <PersonalPortfolioService/>
             <PersonalPortfolio/>
             <PersonalPortfolioTeam/>
-            <Contact/>
+
+            {/* <Contact/> */}
             <Footer position={'static'}/>
         </div>
     );
