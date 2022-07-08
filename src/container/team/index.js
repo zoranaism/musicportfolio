@@ -35,7 +35,7 @@ const PersonalPortfolioTeam = () => {
                 classes={"about-thumbnail mb-md-30 mb-sm-30 mb-xs-30"}
                 thumb={`team/zorana.jpg`}
               />
-            </Col>
+            </Col> 
 
             <Col lg={8}>
               <Content classes={"about-content"}>
