@@ -10,7 +10,7 @@ const BannerPersonalPortfolio = () => {
         <h1 style={{ color: "white" }}>{personalInfo.single}</h1>
         <h2 style={{ color: "white" }}>{personalInfo.band}</h2>
         <h5  style={{ color: "white" }}>RELEASE DATE: 31th JULY, 2022</h5>
-        <a target="_black" style={{ color: "white" }} href={`${personalInfo.link}`}>
+        <a target="_black" style={{ color: "white", border: "2px solid white", padding: "10px 20px" }} href={`${personalInfo.link}`}>
           Pre-listen link
         </a>
       </div>

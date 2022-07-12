@@ -5,35 +5,35 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 /*
 * @ Component Imported
 * */
-import TeamPage from "./pages/team";
-import AboutPage from "./pages/about";
-import ErrorPage from "./pages/404Error";
-import ContactPage from "./pages/contact";
-import ServicePage from "./pages/service";
-import HomeBlog from "./pages/home/HomeBlog";
-import HomeDefault from "./pages/home/HomeDefault";
-import BlogDetailsPage from "./pages/blog/BlogDetails";
-import HomeFiveColumn from './pages/home/HomeFiveColumn';
-import HomeFourColumn from "./pages/home/HomeFourColumn";
-import BlogThreeColumnPage from "./pages/blog/ThreeColumn";
-import HomeThreeColumn from "./pages/home/HomeThreeColumn";
-import PortfolioDetailsPage from "./pages/portfolio/details";
+// import TeamPage from "./pages/team";
+// import AboutPage from "./pages/about";
+// import ErrorPage from "./pages/404Error";
+// import ContactPage from "./pages/contact";
+// import ServicePage from "./pages/service";
+// import HomeBlog from "./pages/home/HomeBlog";
+// import HomeDefault from "./pages/home/HomeDefault";
+// import BlogDetailsPage from "./pages/blog/BlogDetails";
+// import HomeFiveColumn from './pages/home/HomeFiveColumn';
+// import HomeFourColumn from "./pages/home/HomeFourColumn";
+// import BlogThreeColumnPage from "./pages/blog/ThreeColumn";
+// import HomeThreeColumn from "./pages/home/HomeThreeColumn";
+// import PortfolioDetailsPage from "./pages/portfolio/details";
 import HomePersonalPortfolio from "./pages/home/HomePersonalPortfolio";
-import HomeFreelancerPortfolio from "./pages/home/HomeFreelancerPortfolio";
-import PortfolioGridTwoColumnPage from "./pages/portfolio/grid/two-column";
-import BlogTwoColumnLeftSidebarPage from "./pages/blog/TwoColumnLeftSidebar";
-import PortfolioGridFourColumnPage from "./pages/portfolio/grid/four-column";
-import PortfolioGridThreeColumnPage from "./pages/portfolio/grid/three-column";
-import BlogTwoColumnRightSidebarPage from "./pages/blog/TwoColumnRightSidebar";
-import PortfolioMasonryTwoColumnPage from "./pages/portfolio/masonry/two-column";
-import PortfolioMasonryFourColumnPage from "./pages/portfolio/masonry/four-column";
-import PortfolioMasonryThreeColumnPage from "./pages/portfolio/masonry/three-column";
-import PortfolioGridFourColumnFullWidthPage from "./pages/portfolio/grid/four-column-fullwidth";
-import PortfolioGridFiveColumnFullWidthPage from "./pages/portfolio/grid/five-column-fullwidth";
-import PortfolioGridThreeColumnFullWidthPage from "./pages/portfolio/grid/three-column-fullwidth";
-import PortfolioMasonryFourColumnFullWidthPage from "./pages/portfolio/masonry/four-column-fullwidth";
-import PortfolioMasonryFiveColumnFullWidthPage from "./pages/portfolio/masonry/five-column-fullwidth";
-import PortfolioMasonryThreeColumnFullWidthPage from "./pages/portfolio/masonry/three-column-fullwidth";
+// import HomeFreelancerPortfolio from "./pages/home/HomeFreelancerPortfolio";
+// import PortfolioGridTwoColumnPage from "./pages/portfolio/grid/two-column";
+// import BlogTwoColumnLeftSidebarPage from "./pages/blog/TwoColumnLeftSidebar";
+// import PortfolioGridFourColumnPage from "./pages/portfolio/grid/four-column";
+// import PortfolioGridThreeColumnPage from "./pages/portfolio/grid/three-column";
+// import BlogTwoColumnRightSidebarPage from "./pages/blog/TwoColumnRightSidebar";
+// import PortfolioMasonryTwoColumnPage from "./pages/portfolio/masonry/two-column";
+// import PortfolioMasonryFourColumnPage from "./pages/portfolio/masonry/four-column";
+// import PortfolioMasonryThreeColumnPage from "./pages/portfolio/masonry/three-column";
+// import PortfolioGridFourColumnFullWidthPage from "./pages/portfolio/grid/four-column-fullwidth";
+// import PortfolioGridFiveColumnFullWidthPage from "./pages/portfolio/grid/five-column-fullwidth";
+// import PortfolioGridThreeColumnFullWidthPage from "./pages/portfolio/grid/three-column-fullwidth";
+// import PortfolioMasonryFourColumnFullWidthPage from "./pages/portfolio/masonry/four-column-fullwidth";
+// import PortfolioMasonryFiveColumnFullWidthPage from "./pages/portfolio/masonry/five-column-fullwidth";
+// import PortfolioMasonryThreeColumnFullWidthPage from "./pages/portfolio/masonry/three-column-fullwidth";
 
 const App = () => {
     return (
@@ -41,7 +41,7 @@ const App = () => {
             <Switcher/>
             <Router>
                 <Switch>
-                    <Route path={`${process.env.PUBLIC_URL + "/contact"}`}
+                    {/* <Route path={`${process.env.PUBLIC_URL + "/contact"}`}
                            component={ContactPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/team"}`}
                            component={TeamPage}/>
@@ -96,11 +96,11 @@ const App = () => {
                     <Route path={`${process.env.PUBLIC_URL + "/home-three-column"}`}
                            component={HomeThreeColumn}/>
                     <Route path={`${process.env.PUBLIC_URL + "/home-default"}`}
-                           component={HomeDefault}/>
+                           component={HomeDefault}/> */}
                     <Route exact path={`${process.env.PUBLIC_URL + "/"}`}
                            component={HomePersonalPortfolio}
                     />
-                    <Route exact component={ErrorPage}/>
+                    {/* <Route exact component={ErrorPage}/> */}
                 </Switch>
             </Router>
         </Fragment>

@@ -12,9 +12,7 @@ const PersonalPortfolio = () => {
           <Col>
             <SectionTitle
               title={"Promote us"}
-              content={
-                "RELEASE DATE: 31th JULY, 2022"
-              }
+              content={"RELEASE DATE: 31th JULY, 2022"}
             />
           </Col>
         </Row>
@@ -23,31 +21,53 @@ const PersonalPortfolio = () => {
           <Col lg={4} md={6} className={"mb-30"}>
             <Portfolio
               variant={"column"}
-              slug={"slug"}
+              link={"mailto:zoranaism@gmail.com"}
               title={"email"}
               thumb={"mail.png"}
-              category={"ask us anything"}
+              category={"ask us anything, we will reply shortly"}
             />
           </Col>
-          <Col  lg={4} md={6} className={"mb-30"}>
+          <Col lg={4} md={6} className={"mb-30"}>
             <Portfolio
               variant={"column"}
-              slug={"slug"}
+              link={
+                "https://drive.google.com/drive/folders/1W94zT0lnOgppp84DGRc507P_0U2VXZSd?usp=sharing"
+              }
               title={"visuals"}
               thumb={"visuals.png"}
-              category={"get all visuals"}
+              category={"get all visuals for your promo"}
             />
           </Col>
-          <Col  lg={4} md={6} className={"mb-30"}>
+          <Col lg={4} md={6} className={"mb-30"}>
             <Portfolio
               variant={"column"}
-              slug={"slug"}
+              link={"https://linktr.ee/zoranaism"}
               title={"links"}
               thumb={"links.png"}
-              category={"get all links"}
+              category={"find all links you need here"}
             />
           </Col>
         </Row>
+
+        <div className={"text-center align-center"} style={{marginTop: "30px"}}>
+          <a
+            target="_black"
+            style={{
+              color: "black",
+              border: "2px solid black",
+              padding: "10px 20px",
+              marginBottom: '20px'
+
+            }}
+            href={"https://distrokid.com/hyperfollow/purpledrip1/embrace-all"}
+          >
+            Spotify Pre-Save
+          </a>
+          <p>
+            *Inform us about your promotion by tagging Zorana via social media or
+            by sending an email.
+          </p>
+        </div>
       </Container>
     </div>
   );
