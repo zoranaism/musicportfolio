@@ -1,10 +1,11 @@
-import React, {Fragment} from 'react';
+import React, { Fragment, useEffect } from "react";
 import Switcher from "./components/Switcher";
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import ReactGA from "react-ga";
 
 /*
-* @ Component Imported
-* */
+ * @ Component Imported
+ * */
 // import TeamPage from "./pages/team";
 // import AboutPage from "./pages/about";
 // import ErrorPage from "./pages/404Error";
@@ -36,12 +37,19 @@ import HomePersonalPortfolio from "./pages/home/HomePersonalPortfolio";
 // import PortfolioMasonryThreeColumnFullWidthPage from "./pages/portfolio/masonry/three-column-fullwidth";
 
 const App = () => {
-    return (
-        <Fragment>
-            <Switcher/>
-            <Router>
-                <Switch>
-                    {/* <Route path={`${process.env.PUBLIC_URL + "/contact"}`}
+  const TRACKING_ID = "G-1CSDSTNSY5";
+  ReactGA.initialize(TRACKING_ID);
+
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }, []);
+
+  return (
+    <Fragment>
+      <Switcher />
+      <Router>
+        <Switch>
+          {/* <Route path={`${process.env.PUBLIC_URL + "/contact"}`}
                            component={ContactPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/team"}`}
                            component={TeamPage}/>
@@ -97,14 +105,16 @@ const App = () => {
                            component={HomeThreeColumn}/>
                     <Route path={`${process.env.PUBLIC_URL + "/home-default"}`}
                            component={HomeDefault}/> */}
-                    <Route exact path={`${process.env.PUBLIC_URL + "/"}`}
-                           component={HomePersonalPortfolio}
-                    />
-                    {/* <Route exact component={ErrorPage}/> */}
-                </Switch>
-            </Router>
-        </Fragment>
-    );
+          <Route
+            exact
+            path={`${process.env.PUBLIC_URL + "/"}`}
+            component={HomePersonalPortfolio}
+          />
+          {/* <Route exact component={ErrorPage}/> */}
+        </Switch>
+      </Router>
+    </Fragment>
+  );
 };
 
 export default App;
