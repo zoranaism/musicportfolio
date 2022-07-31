@@ -16,14 +16,14 @@ const PersonalPortfolioService = () => {
           <Row>
             <Col>
               <SectionTitle
-                // title={"Embrace all"}
-                // content={"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, aliquam."}
+              // title={"Embrace all"}
+              // content={"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, aliquam."}
               />
             </Col>
           </Row>
 
           <Row>
-            <Col  md={8} className={"text-center offset-md-2"}>
+            <Col md={8} className={"text-center offset-md-2"}>
               <Service
                 className={"mb-40 mb-xs-30"}
                 title="Song meaning"
@@ -48,6 +48,28 @@ const PersonalPortfolioService = () => {
                 Embrace all <br></br>
                 Our time has come
               </p>
+            </Col>
+
+            <Col md={8} className={"text-center offset-md-2"}>
+              <div style={{ height: "50px" }}></div>
+              <Service className="mt-80" title="Sounds like" />
+              <p>
+                Moby, Royksopp, Efterklang, Tycho, Hybrid, Mogwai, Trentemøller,
+                Groove Armada, Boards of Canada, Thievery Corporation, Mono,
+                Bonobo, Moloko, Múm, Four tet, Sigur Rós, Radiohead, Morcheeba, Air, 
+                Orbital, Ulrich Schnauss, The Art of Noise
+              </p>
+
+              <iframe
+                title="Embrace all playlist"
+                style={{ borderRadius: "12px" }}
+                src="https://open.spotify.com/embed/playlist/7ncEa5RQdq7CNFC9hYKe6A?utm_source=generator&theme=0"
+                width="100%"
+                height="380"
+                frameBorder="0"
+                allowfullscreen=""
+                allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              ></iframe>
             </Col>
           </Row>
         </Container>

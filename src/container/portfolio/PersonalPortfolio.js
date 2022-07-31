@@ -12,7 +12,7 @@ const PersonalPortfolio = () => {
           <Col>
             <SectionTitle
               title={"Promote us"}
-              content={"RELEASE DATE: 31th JULY, 2022"}
+              content={"Here you can find mail, visuals and links for your promotion."}
             />
           </Col>
         </Row>
@@ -50,22 +50,9 @@ const PersonalPortfolio = () => {
         </Row>
 
         <div className={"text-center align-center"} style={{marginTop: "30px"}}>
-          <a
-            target="_black"
-            style={{
-              color: "black",
-              border: "2px solid black",
-              padding: "10px 20px",
-              marginBottom: '20px'
-
-            }}
-            href={"https://distrokid.com/hyperfollow/purpledrip1/embrace-all"}
-          >
-            Spotify Pre-Save
-          </a>
           <p>
             *Inform us about your promotion by tagging Zorana via social media or
-            by sending an email.
+            by sending an email on zoranaism@gmail.com
           </p>
         </div>
       </Container>

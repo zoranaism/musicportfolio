@@ -34,11 +34,7 @@ const AboutMe = ({ type }) => {
                 </li>
                 <li>
                   <span>Genre:</span>Hybrid between downtempo, chillwave, indie,
-                  electronica, and prog rock
-                </li>
-                <li>
-                  <span>Sounds like:</span>Moby, Royksopp, Efterklang, Tycho,
-                  Hybrid
+                  electronica, prog rock and post rock
                 </li>
                 <li>
                   <span>ISRC:</span>QZK6L2294240
@@ -71,10 +67,7 @@ const AboutMe = ({ type }) => {
                   <span>Photography:</span>Zorana and Stephie
                 </li>
                 <li>
-                  <span>Brand:</span>Zorana and Stephan
-                </li>
-                <li>
-                  <span>PR and marketing:</span>Zorana
+                  <span>PR, branding and marketing:</span>Zorana
                 </li>
                
               </ul>

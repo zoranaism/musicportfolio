@@ -18,10 +18,10 @@ const HomePersonalPortfolio = () => {
             <Header classes={'position-static'}/>
             {/* <SideHeader mobile={true}/> */}
             <BannerPersonalPortfolio/>
-            <ContentAboutPage/>
 
-            <PersonalPortfolioService/>
             <PersonalPortfolio/>
+            <PersonalPortfolioService/>
+            <ContentAboutPage/>
             <PersonalPortfolioTeam/>
 
             {/* <Contact/> */}
