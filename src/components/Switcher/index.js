@@ -59,14 +59,14 @@ const Switcher = () => {
                 <i className="fa fa-cog fa-spin" style={{pointerEvents: "none"}}/>
             </button>
             <div className="customizer-inner">
-                <div className="customizer-item">
+                {/* <div className="customizer-item">
                     <h4>Chose Color</h4>
                     <ul className="color-setting">
                         {coloPickItem}
                     </ul>
-                </div>
+                </div> */}
 
-                <div className="customizer-item mt-25">
+                <div className="customizer-item">
                     <h4>Switch Theme</h4>
                     <button className="btn-theme" onClick={themeHandler}>
                         <span className='ball'/>

@@ -17,6 +17,7 @@ const HomePersonalPortfolio = () => {
         <div className={'main-wrapper p-0'}>
             <Header classes={'position-static'}/>
             {/* <SideHeader mobile={true}/> */}
+            
             <BannerPersonalPortfolio/>
 
             <PersonalPortfolio/>

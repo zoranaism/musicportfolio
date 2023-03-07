@@ -11,12 +11,20 @@ const Header = ({ classes }) => {
       <Container>
         <Row>
           {/* <Logo/> */}
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "space-between",
+              alignItems: "center",
+              width: "100%"
+            }}
+          >
+            <h2 style={{ height: "100px", lineHeight: "100px" }}>zoranaism</h2>
 
-          <h2 style={{ height: "100px", lineHeight: "100px" }}>zoranaism</h2>
+            {/* <NavBar/> */}
 
-          {/* <NavBar/> */}
-
-          {/* <HeaderSocial /> */}
+            <HeaderSocial />
+          </div>
         </Row>
       </Container>
     </HeaderContainer>

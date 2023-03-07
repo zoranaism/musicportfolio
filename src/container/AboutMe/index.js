@@ -12,7 +12,7 @@ const AboutMe = ({ type }) => {
           <Col lg={6}>
             <Thumbnail
               classes={"about-thumbnail mb-md-30 mb-sm-30 mb-xs-30"}
-              thumb={`singleportoflio/${aboutData.thumb}`}
+              thumb={`about/${aboutData.thumb}`}
             />
           </Col>
 

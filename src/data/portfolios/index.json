@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "title": "Oil Paint Dog",
+    "title": "Purple Drip - Tears of sorrow",
     "slug": "oil-paint-dog",
-    "category": "Design",
-    "thumb": "portfolio-1.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "category": "Coming soon",
+    "thumb": "portfolio-tears.png",
+    "description": "CInamatic dark pop original track. ",
     "previewImages": [
-      "portfolio-1.jpg",
+      "portfolio-tears.png",
       "portfolio-2.jpg"
     ],
     "meta": {
@@ -24,13 +24,13 @@
   },
   {
     "id": 2,
-    "title": "Hardcover Book Cover",
+    "title": "Purple Drip - Embrace All",
     "slug": "hardcover-book-cover",
-    "category": "Photography",
-    "thumb": "portfolio-2.jpg",
+    "category": "Original downtempo single",
+    "thumb": "portfolio-embrace.png",
     "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid",
     "previewImages": [
-      "portfolio-2.jpg",
+      "portfolio-embrace.png",
       "portfolio-2.jpg"
     ],
     "meta": {
@@ -47,13 +47,13 @@
   },
   {
     "id": 3,
-    "title": "Flying Macbook",
+    "title": "The Missing Part",
     "slug": "flying-macbook",
-    "category": "Markup",
-    "thumb": "portfolio-3.jpg",
+    "category": "Original orchestral piece",
+    "thumb": "portfolio-missing.png",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
     "previewImages": [
-      "portfolio-3.jpg",
+      "portfolio-missing.png",
       "portfolio-2.jpg"
     ],
     "meta": {
@@ -69,13 +69,13 @@
   },
   {
     "id": 4,
-    "title": "Floating Card",
+    "title": "Schindler’s List",
     "slug": "floating-card",
-    "category": "Design",
-    "thumb": "portfolio-4.jpg",
+    "category": "Violin and piano cover",
+    "thumb": "portfolio-schindlers.png",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
     "previewImages": [
-      "portfolio-4.jpg",
+      "portfolio-schindlers.png",
       "portfolio-2.jpg",
       "portfolio-3.jpg"
     ],
@@ -92,13 +92,13 @@
   },
   {
     "id": 5,
-    "title": "Minimau Typeface",
+    "title": "Haken - As Death Embraces",
     "slug": "minimau-typeface",
-    "category": "Website",
-    "thumb": "portfolio-5.jpg",
+    "category": "Vocal and piano cover",
+    "thumb": "portfolio-haken.png",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
     "previewImages": [
-      "portfolio-5.jpg",
+      "portfolio-haken.png",
       "portfolio-1.jpg"
     ],
     "meta": {
@@ -114,13 +114,13 @@
   },
   {
     "id": 6,
-    "title": "Oil Dog Paint",
+    "title": "Christina Perri - A thousand years",
     "slug": "oil-dog-paint",
-    "category": "Design",
-    "thumb": "portfolio-6.jpg",
+    "category": "Piano cover",
+    "thumb": "portfolio-thousand.png",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
     "previewImages": [
-      "portfolio-6.jpg",
+      "portfolio-thousand.png",
       "portfolio-2.jpg",
       "portfolio-3.jpg"
     ],
@@ -137,13 +137,13 @@
   },
   {
     "id": 7,
-    "title": "Hardcover Book Cover",
+    "title": "Etta James - At last",
     "slug": "hardcover-book-cover",
-    "category": "Photography",
-    "thumb": "portfolio-7.jpg",
+    "category": "Particle piano cover",
+    "thumb": "portfolio-etta.png",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
     "previewImages": [
-      "portfolio-7.jpg",
+      "portfolio-etta.png",
       "portfolio-3.jpg"
     ],
     "meta": {
@@ -159,13 +159,13 @@
   },
   {
     "id": 8,
-    "title": "Flying Macbook M1 Chip",
+    "title": "Walking in the air",
     "slug": "flying-macbook-m1-chip",
-    "category": "Markup",
-    "thumb": "portfolio-8.jpg",
+    "category": "Dubstep cover for violin and piano",
+    "thumb": "portfolio-walking.png",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
     "previewImages": [
-      "portfolio-8.jpg",
+      "portfolio-walking.png",
       "portfolio-4.jpg"
     ],
     "meta": {
@@ -181,13 +181,13 @@
   },
   {
     "id": 9,
-    "title": "Portfolio Lorem ipsum",
+    "title": "Tool - Schism",
     "slug": "portfolio-lorem-ipsum",
-    "category": "Markup",
-    "thumb": "portfolio-9.jpg",
+    "category": "Piano 4 hands cover",
+    "thumb": "portfolio-tool.png",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
     "previewImages": [
-      "portfolio-9.jpg",
+      "portfolio-tool.png",
       "portfolio-6.jpg"
     ],
     "meta": {

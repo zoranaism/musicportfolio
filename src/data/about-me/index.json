@@ -1,14 +1,9 @@
 {
-  "thumb": "release-info.png",
-  "bio": "There are many variations of passages of Lorem available, but the lteration in some form, by injected humour lebmid ipsum by injected humour lebmid. There are many variations of passages of Lorem, but the majority have suffered lebmid by injected.",
+  "thumb": "about.jpg",
+  "bio": "Zorana is a music artist based in The Netherlands. After enjoying 15 years of music education, she was a part of many choirs, worked as a music teacher abroad, performed in luxurious venues as a pianist and singer, and now she is an independent artist focusing on creating original work and learning music production. Zorana dares to experiment with styles, combining unusual elements and composing techniques. Zorana is a stubbornly independent creator with huge ambitions. Her mission is to grow as a multi-dimensional creator and empower other creative artists in the industry. Like a chameleon, she too often changes her roles and appeal, you wouldn't recognize her.",
   "skype": "jonathon.haris111",
   "availability": true,
-  "languages": [
-    "English",
-    "Hindi",
-    "Bengali",
-    "Telegu"
-  ],
+  "languages": ["English", "Hindi", "Bengali", "Telegu"],
   "skills": [
     {
       "id": 1,
