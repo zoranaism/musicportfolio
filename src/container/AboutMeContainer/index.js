@@ -12,7 +12,7 @@ const AboutMeContainer = ({ type }) => {
           <Col lg={6}>
             <Thumbnail
               classes={"about-thumbnail mb-md-30 mb-sm-30 mb-xs-30"}
-              thumb={`about/${aboutData.thumb}`}
+              thumb={`about/about.png`}
             />
           </Col>
 
