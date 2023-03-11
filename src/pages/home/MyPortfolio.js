@@ -5,12 +5,12 @@ import Contact from "../../container/contact";
 // import SideHeader from "../../components/SideHeader";
 import Header from "../../components/header/HeaderOne";
 import Footer from "../../components/footer/FooterThree";
-import PersonalPortfolioTeam from "../../container/team";
+import Support from "../../container/support";
 // import PersonalPortfolioService from "../../container/service";
 import MyHats from "../../container/myHats";
 import MyPortfolioContainer from "../../container/portfolio/MyPortfolioContainer";
 import BannerMyPortfolio from "../../components/HeroBanner/MyPortfolio";
-import ContentAboutPage from "../../templates/about-page";
+// import ContentAboutPage from "../../templates/about-page";
 import AboutMeContainer from "../../container/AboutMeContainer";
 
 
@@ -26,8 +26,8 @@ const MyPortfolio = () => {
       <MyHats />
       <MyPortfolioContainer />
       {/* <PersonalPortfolioService /> */}
-      <ContentAboutPage />
-      <PersonalPortfolioTeam />
+      {/* <ContentAboutPage /> */}
+      <Support />
 
       <Contact/>
       <Footer position={"static"} />

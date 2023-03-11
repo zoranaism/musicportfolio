@@ -13,7 +13,7 @@ const MyHats = () => {
                     <Row>
                         <Col>
                             <SectionTitle
-                                title={"Hats I wear"}
+                                title={"HARS I WEAR"}
                                 content={"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, aliquam."}
                             />
                         </Col>

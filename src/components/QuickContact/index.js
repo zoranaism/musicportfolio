@@ -1,24 +1,30 @@
-import React from 'react';
+import React from "react";
+import HeaderSocial from "../../components/HeaderSocial";
 
-const QuickContact = ({phone, email, location}) => {
-    return (
-        <div className="contact-info">
-            <h3>QUICK CONTACT</h3>
-            <ul>
-                {/* <li>
-                    <span>Phone:</span>
-                    <a href={`tel:${phone}`}>0684359770</a>
-                </li> */}
-                <li>
-                    <span>Email:</span>
-                    <a href={`mailto:zoranaism@gmail.com`}>zoranaism@gmail.com</a>
-                </li>
-                <li>
-                    <span>Location:</span>Den Bosch, The Netherlands
-                </li>
-            </ul>
-        </div>
-    );
+const QuickContact = ({ phone, email, location }) => {
+  return (
+    <div className="contact-info">
+      <h3>CONTACT</h3>
+      <ul>
+        <li style={{ display: "flex" }}>
+          <span style={{ whiteSpace: "nowrap" }}>Follow me:</span>
+          <div style={{ marginLeft: "240px" }}>
+            <HeaderSocial />
+          </div>
+        </li>
+        <li>
+          <span>Promotion:</span>
+          <a href={`mailto:zoranaism@gmail.com`}>zoranaism@gmail.com</a>
+        </li>
+        <li>
+          <span>Join Production:</span>
+          <a href={`https://www.stellarsoundpodcast.com/become-a-volunteer`}>
+            click here
+          </a>
+        </li>
+      </ul>
+    </div>
+  );
 };
 
 export default QuickContact;
