@@ -19,7 +19,7 @@ const MyHats = () => {
               <SectionTitle
                 title={"HATS I WEAR"}
                 content={
-                  "You might have read that I stubbornly do everything on my own. When I wrote that, I meant it."
+                  "Learning new skills tought me how to successfully coordinate teams or create projects on my own."
                 }
               />
             </Col>
