@@ -85,10 +85,10 @@ const Support = () => {
             <Col lg={4} style={{ marginBottom: "20px" }}>
               <Thumbnail
                 classes={"about-thumbnail"}
-                thumb={`team/zorana.jpg`}
+                thumb={`support/support.jpg`}
               />
 
-              {socialIconsZ.map((social) => (
+              {/* {socialIconsZ.map((social) => (
                 <a
                   key={social?.id}
                   href={social?.url}
@@ -98,24 +98,24 @@ const Support = () => {
                 >
                   <i className={`fa fa-${social?.media}`} />
                 </a>
-              ))}
+              ))} */}
             </Col>
 
             <Col lg={8}>
               <Content classes={"about-content"}>
-                <h3 className="block-title">join my patreon</h3>
-
+                <h3 className="block-title">Support my personal projects</h3>
                 <p>
                   Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                   Nulla, aliquam.
+                  https://www.paypal.com/paypalme/zoranaismpiano
                 </p>
               </Content>
             </Col>
           </Row>
           <Row style={{ marginTop: "40px" }} className={"align-items-center"}>
             <Col lg={4} style={{ marginBottom: "20px" }}>
-              <Thumbnail classes={"about-thumbnail"} thumb={`team/Milan.png`} />
-              {socialIconsM.map((social) => (
+              <Thumbnail classes={"about-thumbnail"} thumb={`support/support.jpg`} />
+              {/* {socialIconsM.map((social) => (
                 <a
                   key={social?.id}
                   href={social?.url}
@@ -125,17 +125,19 @@ const Support = () => {
                 >
                   <i className={`fa fa-${social?.media}`} />
                 </a>
-              ))}
+              ))} */}
             </Col>
             <Col lg={8}>
               <Content classes={"about-content"}>
                 <h3 className="block-title">
-                  Donate to Stellar Sound Foundation
+                  Donate for Stellar Sound Foundation
                 </h3>
-
                 <p>
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Nulla, aliquam.
+                  This is my baby and I cherish all the ideals I’ve started this
+                  one with. This is actually my Ikigai, a perfect balance of
+                  everything I want to do and what I want to do more? You’ve
+                  guessed already, music projects 🙂
+                  https://www.paypal.com/paypalme/stellarsoundpodcast
                 </p>
               </Content>
             </Col>
