@@ -8,7 +8,7 @@ const QuickContact = ({ phone, email, location }) => {
       <ul>
         <li style={{ display: "flex" }}>
           <span style={{ whiteSpace: "nowrap" }}>Follow me:</span>
-          <div style={{ marginLeft: "240px" }}>
+          <div id="socialsResponsive">
             <HeaderSocial />
           </div>
         </li>

@@ -5,6 +5,7 @@ import SectionTitle from "../../components/SectionTitle";
 import Service from "../../components/service";
 import hats from '../../data/hats'
 import lines from "../../assets/images/singleportoflio/transparentBg1.png";
+import sorrowBG from "../../assets/images/hero/sorrow.webp";
 
 
 const MyHats = () => {
