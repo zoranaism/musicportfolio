@@ -130,7 +130,7 @@ const PersonalPortfolioTeam = () => {
                   promote, and connect musicians locally and internationally.
                   Zorana is enthusiastic, bubbly, visionary, focused, creative,
                   and stubborn, and she way too often changes her hair color,
-                  you wouldn't recognize her.
+                  you wouldn't easily recognize her.
                 </p>
               </Content>
             </Col>

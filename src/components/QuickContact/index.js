@@ -17,7 +17,11 @@ const QuickContact = ({ phone, email, location }) => {
           <a href={`mailto:zoranaism@gmail.com`}>zoranaism@gmail.com</a>
         </li>
         <li>
-          <span>Join Production:</span>
+          <span>Collaborate with me:</span>
+          <a href={`mailto:zoranaism@gmail.com`}>zoranaism@gmail.com</a>
+        </li>
+        <li>
+          <span>Join production team:</span>
           <a href={`https://www.stellarsoundpodcast.com/become-a-volunteer`}>
             click here
           </a>
