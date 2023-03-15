@@ -7,7 +7,7 @@ const HeroBannerContainer = ({ children, overlay, bg }) => {
     <div
       className={`section main-slider-1 ${overlay ? "banner-overlay" : null}`}
       // style={{ backgroundImage: `url(${bg})` }}
-      style={{ position: "relative", width: "100%" }}
+      style={{ position: "relative", width: "100%", overflow: "hidden" }}
     >
       <video
         style={{
