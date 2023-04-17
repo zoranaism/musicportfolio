@@ -2,74 +2,55 @@
   {
     "id": 1,
     "title": "Purple Drip - Tears of sorrow",
+    "link": "https://nfan.link/tears-of-sorrow-pre-save",
     "slug": "oil-paint-dog",
     "category": "Coming soon",
     "thumb": "portfolio-tears.png",
     "description": "CInamatic dark pop original track. ",
-    "previewImages": [
-      "portfolio-tears.png",
-      "portfolio-2.jpg"
-    ],
+    "previewImages": ["portfolio-tears.png", "portfolio-2.jpg"],
     "meta": {
       "client": "Jerry Wilson",
       "date": "01/05/2020",
       "website": "https://hasthemes.com",
-      "services": [
-        "Design",
-        "Branding",
-        "Web",
-        "Photography"
-      ]
+      "services": ["Design", "Branding", "Web", "Photography"]
     }
   },
   {
     "id": 2,
     "title": "Purple Drip - Embrace All",
+    "link": "https://www.youtube.com/watch?v=hD4VnPaudaw",
     "slug": "hardcover-book-cover",
     "category": "Original downtempo single",
     "thumb": "portfolio-embrace.png",
     "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid",
-    "previewImages": [
-      "portfolio-embrace.png",
-      "portfolio-2.jpg"
-    ],
+    "previewImages": ["portfolio-embrace.png", "portfolio-2.jpg"],
     "meta": {
       "client": "Raju Wilson",
       "date": "01/05/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Design",
-        "Branding",
-        "Web",
-        "Photography"
-      ]
+      "services": ["Design", "Branding", "Web", "Photography"]
     }
   },
   {
     "id": 3,
     "title": "The Missing Part",
+    "link": "https://www.youtube.com/watch?v=YvoYn4KWONw",
     "slug": "flying-macbook",
     "category": "Original orchestral piece",
     "thumb": "portfolio-missing.png",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-missing.png",
-      "portfolio-2.jpg"
-    ],
+    "previewImages": ["portfolio-missing.png", "portfolio-2.jpg"],
     "meta": {
       "client": "Jerry Wilson",
       "date": "21/05/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Design",
-        "Web",
-        "Photography"
-      ]
+      "services": ["Design", "Web", "Photography"]
     }
   },
   {
     "id": 4,
     "title": "Schindler’s List",
+    "link": "https://www.youtube.com/watch?v=fIIsV4P6rQo",
     "slug": "floating-card",
     "category": "Violin and piano cover",
     "thumb": "portfolio-schindlers.png",
@@ -83,38 +64,29 @@
       "client": "Jowel Jerry",
       "date": "01/05/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Web",
-        "Photography"
-      ]
+      "services": ["Branding", "Web", "Photography"]
     }
   },
   {
     "id": 5,
     "title": "Haken - As Death Embraces",
+    "link": "https://www.youtube.com/watch?v=WMWQ_zhCvu4",
     "slug": "minimau-typeface",
     "category": "Vocal and piano cover",
     "thumb": "portfolio-haken.png",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-haken.png",
-      "portfolio-1.jpg"
-    ],
+    "previewImages": ["portfolio-haken.png", "portfolio-1.jpg"],
     "meta": {
       "client": "Rashed Jerry",
       "date": "01/05/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Web",
-        "Photography"
-      ]
+      "services": ["Branding", "Web", "Photography"]
     }
   },
   {
     "id": 6,
     "title": "Christina Perri - A thousand years",
+    "link": "https://www.youtube.com/watch?v=2FuK9vzUPxQ",
     "slug": "oil-dog-paint",
     "category": "Piano cover",
     "thumb": "portfolio-thousand.png",
@@ -128,77 +100,55 @@
       "client": "Tasnim Khatun",
       "date": "29/09/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+      "services": ["Branding", "Tech", "Photography"]
     }
   },
   {
     "id": 7,
     "title": "Etta James - At last",
+    "link": "https://www.youtube.com/watch?v=YbehfXIbUho",
     "slug": "hardcover-book-cover",
     "category": "Particle piano cover",
     "thumb": "portfolio-etta.png",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-etta.png",
-      "portfolio-3.jpg"
-    ],
+    "previewImages": ["portfolio-etta.png", "portfolio-3.jpg"],
     "meta": {
       "client": "Hassan Al",
       "date": "11/03/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+      "services": ["Branding", "Tech", "Photography"]
     }
   },
   {
     "id": 8,
     "title": "Walking in the air",
+    "link": "https://www.youtube.com/watch?v=lCNSHOf3GrU",
     "slug": "flying-macbook-m1-chip",
     "category": "Dubstep cover for violin and piano",
     "thumb": "portfolio-walking.png",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-walking.png",
-      "portfolio-4.jpg"
-    ],
+    "previewImages": ["portfolio-walking.png", "portfolio-4.jpg"],
     "meta": {
       "client": "Tasnim Khatun",
       "date": "29/09/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+      "services": ["Branding", "Tech", "Photography"]
     }
   },
   {
     "id": 9,
     "title": "Tool - Schism",
+    "link": "https://www.youtube.com/watch?v=ljpL-CSY2P8",
     "slug": "portfolio-lorem-ipsum",
     "category": "Piano 4 hands cover",
     "thumb": "portfolio-tool.png",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-tool.png",
-      "portfolio-6.jpg"
-    ],
+    "previewImages": ["portfolio-tool.png", "portfolio-6.jpg"],
     "meta": {
       "client": "John Doe",
       "date": "31/08/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+      "services": ["Branding", "Tech", "Photography"]
     }
   },
   {
@@ -208,19 +158,12 @@
     "category": "Markup",
     "thumb": "portfolio-10.jpg",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-10.jpg",
-      "portfolio-4.jpg"
-    ],
+    "previewImages": ["portfolio-10.jpg", "portfolio-4.jpg"],
     "meta": {
       "client": "Nasnim Shatun",
       "date": "21/01/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+      "services": ["Branding", "Tech", "Photography"]
     }
   },
   {
@@ -230,19 +173,12 @@
     "category": "Photography",
     "thumb": "portfolio-11.jpg",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-11.jpg",
-      "portfolio-4.jpg"
-    ],
+    "previewImages": ["portfolio-11.jpg", "portfolio-4.jpg"],
     "meta": {
       "client": "Khatun Bibi",
       "date": "29/09/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+      "services": ["Branding", "Tech", "Photography"]
     }
   },
   {
@@ -252,19 +188,12 @@
     "category": "Markup",
     "thumb": "portfolio-12.jpg",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-12.jpg",
-      "portfolio-4.jpg"
-    ],
+    "previewImages": ["portfolio-12.jpg", "portfolio-4.jpg"],
     "meta": {
       "client": "Angel Sokina",
       "date": "29/09/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+      "services": ["Branding", "Tech", "Photography"]
     }
   },
   {
@@ -274,18 +203,12 @@
     "category": "Website",
     "thumb": "portfolio-13.jpg",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-13.jpg",
-      "portfolio-4.jpg"
-    ],
+    "previewImages": ["portfolio-13.jpg", "portfolio-4.jpg"],
     "meta": {
       "client": "Alex Tuntuni",
       "date": "11/11/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Photography"
-      ]
+      "services": ["Branding", "Photography"]
     }
   },
   {
@@ -295,18 +218,12 @@
     "category": "Design",
     "thumb": "portfolio-14.jpg",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-14.jpg",
-      "portfolio-4.jpg"
-    ],
+    "previewImages": ["portfolio-14.jpg", "portfolio-4.jpg"],
     "meta": {
       "client": "Jowel Mia",
       "date": "09/09/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech"
-      ]
+      "services": ["Branding", "Tech"]
     }
   },
   {
@@ -316,19 +233,12 @@
     "category": "Markup",
     "thumb": "portfolio-15.jpg",
     "description": "Majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-15.jpg",
-      "portfolio-4.jpg"
-    ],
+    "previewImages": ["portfolio-15.jpg", "portfolio-4.jpg"],
     "meta": {
       "client": "Humaun Khepa",
       "date": "05/06/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+      "services": ["Branding", "Tech", "Photography"]
     }
   }
 ]

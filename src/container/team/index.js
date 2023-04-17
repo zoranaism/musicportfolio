@@ -7,6 +7,37 @@ import Thumbnail from "../../components/thumbnail";
 import Content from "../../components/content";
 
 const PersonalPortfolioTeam = () => {
+  const socialIconsPurpleDrip = [
+    {
+      id: 1,
+      media: "soundcloud",
+      url: "https://soundcloud.com/zoranaism",
+    },
+    {
+      id: 2,
+      media: "spotify",
+      url: "https://open.spotify.com/artist/329OL9YNbJWJKNry6hwGyi",
+    },
+    {
+      id: 3,
+      media: "youtube",
+      url: "https://www.youtube.com/c/zoranaism",
+    },
+    {
+      id: 4,
+      media: "apple",
+      url: "https://music.apple.com/nl/artist/purple-drip/1630976044",
+    },
+  ];
+
+  const TOSPreSave = [
+    {
+      id: 1,
+      media: "link",
+      url: "https://nfan.link/tears-of-sorrow-pre-save",
+    },
+  ];
+
   const socialIconsZ = [
     {
       id: 1,
@@ -85,8 +116,69 @@ const PersonalPortfolioTeam = () => {
               </p>
             </Col>
           </Row>
+          <Row className={"align-items-center"}>
+            <Col lg={4}></Col>
+
+            <Col lg={4} style={{ marginBottom: "20px" }}>
+              <Thumbnail
+                classes={"about-thumbnail"}
+                thumb={`team/Milan&Zorana.jpg`}
+              />
+            </Col>
+
+            {/* <Col lg={6}>
+              <Content classes={"about-content"}>
+              <h3 className="block-title">asd</h3>
+              
+              <p>sdfas</p>
+              </Content>
+            </Col> */}
+          </Row>
 
           <Row className={"align-items-center"}>
+            <Col lg={2}></Col>
+            <Col lg={4}>
+              <Thumbnail
+                classes={"about-thumbnail"}
+                thumb={`team/PurpleDripLogo.png`}
+              />
+              {socialIconsPurpleDrip.map((social) => (
+                <a
+                  key={social?.id}
+                  href={social?.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ padding: "10px" }}
+                >
+                  <i className={`fa fa-${social?.media}`} />
+                </a>
+              ))}
+            </Col>
+            <Col lg={4}>
+              <Thumbnail classes={"about-thumbnail"} thumb={`team/TOS.png`} />
+              {TOSPreSave.map((social) => (
+                <a
+                  key={social?.id}
+                  href={social?.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ padding: "10px" }}
+                >
+                  <i className={`fa fa-${social?.media}`} />
+                </a>
+              ))}
+            </Col>
+
+            {/* <Col lg={6}>
+              <Content classes={"about-content"}>
+              <h3 className="block-title">asd</h3>
+              
+              <p>sdfas</p>
+              </Content>
+            </Col> */}
+          </Row>
+
+          {/* <Row className={"align-items-center"}>
             <Col lg={4} style={{ marginBottom: "20px" }}>
               <Thumbnail
                 classes={"about-thumbnail"}
@@ -134,8 +226,8 @@ const PersonalPortfolioTeam = () => {
                 </p>
               </Content>
             </Col>
-          </Row>
-          <Row style={{ marginTop: "40px" }} className={"align-items-center"}>
+          </Row> */}
+          {/* <Row style={{ marginTop: "40px" }} className={"align-items-center"}>
             <Col lg={4} style={{ marginBottom: "20px" }}>
               <Thumbnail classes={"about-thumbnail"} thumb={`team/Milan.png`} />
               {socialIconsM.map((social) => (
@@ -174,7 +266,7 @@ const PersonalPortfolioTeam = () => {
                 </p>
               </Content>
             </Col>
-          </Row>
+          </Row> */}
         </Container>
       </div>
     </div>

@@ -7,12 +7,13 @@ import Header from "../../components/header/HeaderOne";
 import Footer from "../../components/footer/FooterThree";
 import Support from "../../container/support";
 // import PersonalPortfolioService from "../../container/service";
+import PersonalPortfolioTeam from "../../container/team";
+
 import MyHats from "../../container/myHats";
 import MyPortfolioContainer from "../../container/portfolio/MyPortfolioContainer";
 import BannerMyPortfolio from "../../components/HeroBanner/MyPortfolio";
 // import ContentAboutPage from "../../templates/about-page";
 import AboutMeContainer from "../../container/AboutMeContainer";
-
 
 const MyPortfolio = () => {
   return (
@@ -27,9 +28,9 @@ const MyPortfolio = () => {
       <MyPortfolioContainer />
       {/* <PersonalPortfolioService /> */}
       {/* <ContentAboutPage /> */}
-      <Support />
-
-      <Contact/>
+      {/* <Support /> */}
+      <PersonalPortfolioTeam />
+      <Contact />
       <Footer position={"static"} />
     </div>
   );
