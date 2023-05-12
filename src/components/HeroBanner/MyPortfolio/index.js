@@ -9,8 +9,8 @@ const BannerMyPortfolio = () => {
         <h2>Hello , I’m</h2>
         <h1>{personalInfo.name}</h1>
         <h2>{personalInfo.designation}</h2>
-        <a target="_blank" href={`https://nfan.link/tears-of-sorrow-pre-save`}>
-          Pre-save Tears of sorrow
+        <a target="_blank" href={`https://linktr.ee/zoranaism`}>
+          "Tears of sorrow" is OUT NOW!
         </a>
       </div>
     </HeroBannerContainer>

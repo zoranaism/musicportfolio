@@ -1,8 +1,11 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-import sorrowVideoBG from "../../assets/images/hero/sorrow-video.mov";
+// import bg from "../../assets/images/hero/cover1.png";
+// import sorrowVideoBG from "../../assets/images/hero/sorrow-video.mov";
+import sorrowVideoBG from "../../assets/images/hero/sorrow-video.mp4";
 
-const HeroBannerContainer = ({ children, overlay, bg }) => {
+
+const HeroBannerContainer = ({ children, overlay }) => {
   return (
     <div
       className={`section main-slider-1 ${overlay ? "banner-overlay" : null}`}
