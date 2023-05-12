@@ -2,8 +2,8 @@ import React from "react";
 import { Container } from "react-bootstrap";
 // import bg from "../../assets/images/hero/cover1.png";
 // import sorrowVideoBG from "../../assets/images/hero/sorrow-video.mov";
-import sorrowVideoBG from "../../assets/images/hero/sorrow-video.mp4";
-
+// import sorrowVideoBG from "../../assets/images/hero/sorrow-video.mp4";
+import sorrowVideoBG from "../../assets/images/hero/sorrow-video1.mp4";
 
 const HeroBannerContainer = ({ children, overlay }) => {
   return (
