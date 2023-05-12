@@ -9,8 +9,8 @@ const BannerMyPortfolio = () => {
         <h2>Hello , I’m</h2>
         <h1>{personalInfo.name}</h1>
         <h2>{personalInfo.designation}</h2>
-        <a target="_blank" href={`https://linktr.ee/zoranaism`}>
-          "Tears of sorrow" is OUT NOW!
+        <a target="_blank" href={`https://www.youtube.com/watch?v=NBiIf7ilQE4`}>
+          Watch "Tears of sorrow" now!
         </a>
       </div>
     </HeroBannerContainer>

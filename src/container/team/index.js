@@ -34,7 +34,7 @@ const PersonalPortfolioTeam = () => {
     {
       id: 1,
       media: "link",
-      url: "https://nfan.link/tears-of-sorrow-pre-save",
+      url: "https://linktr.ee/zoranaism",
     },
   ];
 
