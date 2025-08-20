@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Anna Terpstra",
+    "designation": "music production student",
+    "testimonial": "'She customised the lessons to my techno goals, encouraged my creativity, and believed in me from day one.'",
+    "profilePhoto": "team-1.jpg", 
+     "socials": [
+      {
+        "id": 1,
+        "media": "instagram",
+        "username": "annaminyterpstra/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Paula Deisz",
+    "designation": "songwriting student",
+    "testimonial": "Zorana is a wonderful teacher who brings creativity, fresh ideas and constant inspiration to every lesson.",
+    "profilePhoto": "team-2.jpg", 
+     "socials": [
+      {
+        "id": 1,
+        "media": "instagram",
+        "username": "paula_deisz"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Nick",
+    "designation": "DAW basics student",
+    "testimonial": "I would gladly recommend this workshop to everyone who is at the beggining of their musical journey, since it introduces you to the world of DAW basics and it gives you the motivation to continue exploring :)",
+    "profilePhoto": "team-3.jpg", 
+     "socials": [
+      {
+        "id": 1,
+        "media": "instagram",
+        "username": "rajuahammadfans"
+      },
+      {
+        "id": 2,
+        "media": "twitter",
+        "username": "rajuahammadfans"
+      },
+      {
+        "id": 3,
+        "media": "github",
+        "username": "rajuahammadfans"
+      }
+    ]
+  }
+]

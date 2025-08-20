@@ -1,0 +1,382 @@
+[
+ {
+  "id": 1,
+  "title": "Independent Artist",
+  "category": "Artist",
+  "thumb": "portfolio-1.jpg",
+  "description": "Original compositions and visual concepts blending cinematic soundscapes, progressive influences, and immersive storytelling. Released music and directed music videos under the artist name Zoranaism.",
+    "previewYouTube": [
+    "https://www.youtube.com/watch?v=hD4VnPaudaw"
+  ],
+ "previewImages": [
+
+  ],
+  "meta": {
+    "client": "Zorana Lazarevic",
+    "date": "01/01/2018",
+    "website": "https://zoranaism.com",
+    "services": [
+      "Composer & Producer",
+      "Vocalist & Pianist",
+      "Music Video Direction & Editing",
+      "Visual Styling & Creative Branding",
+      "Promotion Strategy & Content Creation",
+      "Independent Release Planning"
+      ]
+    }
+  },
+{
+  "id": 2,
+  "title": "Professional Growth for Young Artists",
+  "category": "Mentoring Music Artists",
+  "thumb": "portfolio-2.jpg",
+  "description": "Helped emerging musicians shape their creative voice and take their first professional steps in music.",
+     "previewYouTube": [
+    ],
+ "previewImages": [
+    "portfolio-2.1.jpg",
+    "portfolio-2.2.jpg"
+  ],
+  "meta": {
+    "client": "Independent Young Artists",
+    "date": "01/05/2021",
+    "website": "https://zoranaism.com",
+    "services": [
+      "Guided young artists through songwriting & arrangement",
+      "Provided vocal and instrumental coaching",
+      "Supported creative concept development",
+      "Introduced digital tools and AI for artistic growth",
+      "Advised on release planning and promotion",
+      "Helped build branding and artist identity",
+      "Encouraged long-term artistic development"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "Session Musician – Piano, Keys & Vocals",
+    "slug": "session-musician",
+    "category": "Session Musician",
+    "thumb": "portfolio-3.jpg",
+    "description": "Studio and live session work for piano, keys, and vocals in recordings and performances.",
+       "previewYouTube": [
+"https://www.youtube.com/watch?v=RByV6SmO_GM"
+"https://www.youtube.com/watch?v=YY5vdlczC_4"
+    ],
+ "previewImages": [
+   
+    ],
+    "meta": {
+      "client": "Jerry Wilson",
+      "date": "21/05/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Session Musician",
+        "Session Pianist",
+        "Session Keyboardist",
+        "Session Vocalist"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "International Music Teacher",
+    "category": "Teaching",
+    "thumb": "portfolio-4.jpg",
+    "description": "Teaching piano, keyboard, and music production to students worldwide.",
+       "previewYouTube": [
+    ],
+ "previewImages": [
+   "portfolio-4.2.jpg",
+   "portfolio-4.3.jpg",
+   "portfolio-4.1.jpg"
+    ],
+    "meta": {
+      "client": "British Emirates School Dubai, Royal Institute of Music Dubai, City Children's Choir Serbia, Kuwaiti American School Kuwait, Muziekles Den Bosch Netherlands",
+      "date": false,
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Web",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "title": "Interactive Music Entertainer",
+    "category": "Choir Workshop",
+    "thumb": "portfolio-5.jpg",
+    "description": "Entertaining and inspiring musical experiences for kids, adults, and groups of any size, perfect for birthdays, team building, and creative gatherings.",
+       "previewYouTube": [
+    ],
+ "previewImages": [
+      "portfolio-5.1.jpg",
+      "portfolio-5.2.jpg"
+    ],
+    "meta": {
+      "client": "Rashed Jerry",
+      "date": "01/05/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Music Workshops & Group Classes",
+        "Team Building Activities",
+        "Birthday & Special Event Entertainment",
+        "Interactive Music Games",
+        "Creative Group Exercises",
+        "Instrument Exploration & Introduction",
+        "Fun Musical Challenges"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "title": "Academic Workshops & Lectures",
+    "category": "Lectures",
+    "thumb": "portfolio-6.png",
+    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+       "previewYouTube": [
+    ],
+ "previewImages": [
+         "portfolio-2.1.jpg",
+    "portfolio-2.2.jpg"
+    ],
+    "meta": {
+      "client": "Tasnim Khatun",
+      "date": "29/09/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "title": "Classical Pianist",
+    "category": "Classical Pianist",
+    "thumb": "portfolio-7.jpg",
+    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "previewYouTube": [
+      "https://www.youtube.com/watch?v=fIIsV4P6rQo"    
+    ],
+ "previewImages": [
+      "portfolio-7.1.jpg",
+      "portfolio-7.2.jpg"
+    ],
+    "meta": {
+      "client": "Hassan Al",
+      "date": "11/03/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "title": "Event Management, Coordination & Curation",
+    "category": "Collaborations",
+    "thumb": "portfolio-8.jpg",
+    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+       "previewYouTube": [
+    ],
+ "previewImages": [
+      "portfolio-8.jpg",
+      "portfolio-8.1.jpg"
+        ],
+    "meta": {
+      "client": "Tasnim Khatun",
+      "date": "29/09/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "title": "Live pianist for Special Occasions",
+    "category": "Live Pianist",
+    "thumb": "portfolio-9.jpg",
+    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+       "previewYouTube": [
+        "https://www.youtube.com/watch?v=pMfS8bwHYFc"
+    ],
+ "previewImages": [
+   "portfolio-9.jpg",    
+   "portfolio-9.2.jpg"    
+],
+    "meta": {
+      "client": "John Doe",
+      "date": "31/08/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "title": "Singer",
+    "slug": "singer",
+    "category": "Singer",
+    "thumb": "portfolio-10.jpg",
+    "description": "A live performance project highlighting powerful vocals, immersive stage presence, and a cinematic atmosphere. This work combines storytelling through music with a strong visual identity, creating an engaging experience for both live audiences and online viewers.",
+      "previewYouTube": [
+      "https://www.youtube.com/watch?v=s-2TVo3nCc8", 
+      "https://www.youtube.com/watch?v=WMWQ_zhCvu4"
+    ],
+    "previewImages": [
+      "portfolio-10.1.jpg"
+    ],
+    "meta": {
+      "client": "Nasnim Shatun",
+      "date": "20/08/2025",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Live Performance",
+        "Vocal Recording",
+        "Music Branding"      
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "title": "Music Projects Founder and Executor",
+    "slug": "stellar-sound-foundation",
+    "category": "Community & Nonprofit",
+    "thumb": "portfolio-11.jpg",
+    "description": "Founded and directed a nonprofit supporting creativity and authenticity in the music industry through podcasts, educational workshops, and mentorship programs.",
+       "previewYouTube": [
+      "https://www.youtube.com/watch?v=SlN0Twjrx6k"
+    ],
+ "previewImages": [
+  
+    ],
+    "meta": {
+      "client": "Stellar Sound Foundation",
+      "date": "01/09/2019",
+      "website": "https://stellarsoundfoundation.org",
+      "services": [
+        "Podcast Production & Musician Interviews",
+        "Educational Workshop Series (Songwriting, Producing)",
+        "Artist Mentoring & Networking",
+        "Community Building & Nonprofit Leadership",
+        "Creative Concept Development"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "title": "Metal Keyboardist",
+    "category": "Markup",
+    "thumb": "portfolio-12.jpg",
+    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+       "previewYouTube": [
+      "https://www.youtube.com/watch?v=0d-y8JVLLZc", 
+        "https://www.youtube.com/watch?v=etWyCQUJHi4&t=202s"
+    ],
+ "previewImages": [
+      "portfolio-12.jpg"
+        ],
+    "meta": {
+      "client": "Angel Sokina",
+      "date": "29/09/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Tech",
+        "Photography"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "title": "Live Coding Music",
+    "category": "Live Coding",
+    "thumb": "portfolio-13.jpg",
+    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+       "previewYouTube": [
+    ],
+ "previewImages": [
+      "portfolio-13.jpg", 
+            "portfolio-13.1.jpg"
+
+        ],
+    "meta": {
+      "client": "Alex Tuntuni",
+      "date": "11/11/2021",
+      "website": "https://hasthemes.com",
+      "services": [
+        "Branding",
+        "Photography"
+      ]
+    }
+  },
+{
+  "id": 14,
+  "title": "Music Video Producer",
+  "category": "Video Producer",
+  "thumb": "portfolio-14.jpg",
+  "description": "Produced and directed music videos with a strong musical perspective, ensuring visuals enhance and amplify the story of each song. Applied a keen sense for rhythm, emotion, and cinematic details to bring the music to life. Worked on personal projects including 'Purple Drip: Tears of Sorrow' and 'Zoranaism: The Missing Part'.",
+     "previewYouTube": [
+      "https://www.youtube.com/watch?v=YvoYn4KWONw&pp=0gcJCa0JAYcqIYzv", 
+            "https://www.youtube.com/watch?v=NBiIf7ilQE4"
+
+    ],
+ "previewImages": [
+    "portfolio-14.jpg", 
+        "portfolio-14.1.JPG"
+
+  ],
+  "meta": {
+    "client": "Self & Personal Projects",
+    "date": "09/09/2021",
+    "website": "https://zoranaism.com",
+    "services": [
+      "Music Video Production & Direction",
+      "Storyboarding & Visual Concept Development",
+      "Rhythm & Mood-driven Editing",
+      "Collaboration with Musicians & Performers",
+      "Color Grading & Cinematic Finishing"
+    ]
+  }
+},
+{
+  "id": 15,
+  "title": "Songwriting, Orchestration & Composition",
+  "slug": "custom-music-for-media",
+  "category": "Composer",
+  "thumb": "portfolio-15.jpg",
+  "description": "Composed original music for media projects, including short films, commercials, and video games. Delivered cinematic, atmospheric, and engaging soundtracks tailored to each story.",
+     "previewYouTube": [
+      "https://www.youtube.com/watch?v=lCNSHOf3GrU", 
+      "https://www.youtube.com/watch?v=YvoYn4KWONw"
+    ],
+ "previewImages": [
+    "portfolio-15.jpg"
+  ],
+  "meta": {
+    "client": "Filmmakers, Ad Agencies, Game Studios",
+    "date": "01/09/2021",
+    "website": "https://zoranaism.com",
+    "services": [
+      "Film Scoring & Soundtrack Composition",
+      "Music for Commercials & Ads",
+      "Video Game Music & Soundscapes",
+      "Cinematic Themes & Motifs",
+      "Ambient & Atmospheric Compositions",
+      "Sync-ready Tracks & Licensing"
+    ]
+  }
+}
+
+]

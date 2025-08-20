@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "media": "linkedin",
+    "url": "https://www.linkedin.com/in/zoranaism/"
+  },
+    {
+    "id": 2,
+    "media": "instagram",
+    "url": "https://www.instagram.com/zoranaism"
+  },
+  {
+    "id": 3,
+    "media": "soundcloud",
+    "url": "https://soundcloud.com/zoranaism"
+  },
+  {
+    "id": 4,
+    "media": "youtube",
+    "url": "https://www.youtube.com/@zoranaism"
+  },
+  {
+    "id": 5,
+    "media": "link",
+    "url": "https://linktr.ee/zoranaism"
+  },
+  {
+    "id": 6,
+    "media": "tiktok",
+    "url": "https://tiktok.com/@zoranaism"
+  }
+]

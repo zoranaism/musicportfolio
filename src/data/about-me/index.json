@@ -1,0 +1,27 @@
+{
+  "thumb": "about.png",
+  "bio": "I am a music artist, pianist, and producer based in the Netherlands with a wide range of experiences across diverse genres—classical, jazz, metal, pop, and electronic. Each opportunity I’ve had has shaped me, giving me new skills and perspectives to grow as a creator. By nature, I am curious and brave, always eager to explore new sounds, ideas, and collaborations. I love working with others and hearing their visions—it inspires me to step into different worlds and connect with their creativity. Music has always been close to my heart; it runs in my family, where it was part of every celebration and good time. That deep connection keeps fueling my passion today. I always listen, follow, and watch what’s new in music, and I love to see where the music world is going. With every project, I take a different approach. I keep my eyes, ears, and senses open to understand what is needed, and I adapt quickly and easily to the circumstances. This openness and flexibility are among my strongest skills as an artist and collaborator.",
+  "availability": true,
+  "languages": [
+    "English",
+    "Dutch",
+    "Serbian"  
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "title": "Graphic Design",
+      "percentage": 75
+    },
+    {
+      "id": 2,
+      "title": "Photoshop",
+      "percentage": 90
+    },
+    {
+      "id": 3,
+      "title": "Web Design",
+      "percentage": 80
+    }
+  ]
+}
