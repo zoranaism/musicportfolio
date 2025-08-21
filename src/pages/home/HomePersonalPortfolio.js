@@ -20,8 +20,8 @@ const HomePersonalPortfolio = () => {
             <Header classes={'position-static'}/>
             <BannerPersonalPortfolio/>
             <AboutMe />
-            <PortfolioMasonryThreeColumn portfolios={portfolios} loading={false} fullWidth={true}/>
             <PersonalPortfolioService/>
+            <PortfolioMasonryThreeColumn portfolios={portfolios} loading={false} fullWidth={true}/>
             <PersonalPortfolioTeam/>
             <Contact/>
             <Footer position={'static'}/>

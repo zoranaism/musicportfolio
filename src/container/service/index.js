@@ -12,8 +12,8 @@ const PersonalPortfolioService = () => {
                     <Row>
                         <Col>
                             <SectionTitle
-                                title={"My Services"}
-                                content={"I provide a wide range of music services, from performance and production to teaching and creative collaborations."}
+                                title={"Let’s Work Together"}
+                                content={"Whether you need live music, professional production, or personalized lessons, I’ll help turn your vision into reality through creativity and collaboration."}
                             />
                         </Col>
                     </Row>

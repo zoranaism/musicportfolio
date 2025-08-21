@@ -19,14 +19,14 @@ const PortfolioMasonryThreeColumn = ({portfolios, loading, fullWidth}) => {
 
     return (
         <Fragment>
-                   <Row>
-                        <Col>
-                            <SectionTitle
-                                title={"My experience"}
-                                content={"Some text"}
-                            />
-                        </Col>
-                    </Row>
+            <Row>
+                <Col style={{marginTop: "80px"}}>
+                    <SectionTitle
+                        title={"Where Music Took Me"}
+                        content={"Music has led me from classrooms to stages and studios, shaping my craft through performing, teaching, and creating along the way."}
+                    />
+                </Col>
+            </Row>
             <Row className={'row-7 portfolio-column-three masonry-grid mb-1'}>
                 {portfolios.map(portfolio => (
                     <Col key={portfolio.id} md={6} lg={4} className={'mb-15'}>
