@@ -4,7 +4,7 @@ import Masonry from 'masonry-layout';
 import imagesLoaded from 'imagesloaded';
 import Portfolio from "../../../components/portfolio";
 import Loading from "../../../components/loading";
-
+import SectionTitle from "../../../components/SectionTitle";
 
 const PortfolioMasonryThreeColumn = ({portfolios, loading, fullWidth}) => {
 
@@ -19,6 +19,14 @@ const PortfolioMasonryThreeColumn = ({portfolios, loading, fullWidth}) => {
 
     return (
         <Fragment>
+                   <Row>
+                        <Col>
+                            <SectionTitle
+                                title={"My experience"}
+                                content={"Some text"}
+                            />
+                        </Col>
+                    </Row>
             <Row className={'row-7 portfolio-column-three masonry-grid mb-1'}>
                 {portfolios.map(portfolio => (
                     <Col key={portfolio.id} md={6} lg={4} className={'mb-15'}>

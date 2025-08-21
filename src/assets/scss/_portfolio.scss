@@ -42,22 +42,18 @@
     z-index: 4;
 
     & .title {
-      font-size: 16px;
+      font-size: 20px;
       line-height: 24px;
       font-weight: 600;
       letter-spacing: 1px;
       margin-bottom: 5px;
       transform: translateY(-15px);
-      opacity: 0;
+      color: black;
+      text-transform: uppercase;
       transition: all 0.3s ease 0s;
+      background-color: white;
+      padding: 10px 2px;
 
-      & a {
-        color: $heading-color;
-
-        &:hover {
-          color: $heading-color;
-        }
-      }
     }
 
     & .category {
@@ -68,23 +64,15 @@
       transition: all 0.3s ease 0s;
 
       & span {
-        display: inline-block;
-        line-height: 1;
-        letter-spacing: 1px;
-        font-size: 14px;
-        color: $body-color;
-
-        &:hover {
-          color: $heading-color;
-        }
+        display: none;
       }
     }
   }
 
-  &:hover {
+
     & .portfolio-image {
       &::before {
-        opacity: 0.8;
+        opacity: 0.3;
       }
     }
 
@@ -100,7 +88,6 @@
         opacity: 1;
       }
     }
-  }
 
   &.portfolio-screen-height {
     & .portfolio-image {
