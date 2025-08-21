@@ -1,6 +1,5 @@
 import React from 'react';
 import {Container, Row, Col} from 'react-bootstrap';
-import serviceBg from '../../assets/images/bg/service-bg.jpg';
 import SectionTitle from "../../components/SectionTitle";
 import Service from "../../components/service";
 import services from '../../data/service'

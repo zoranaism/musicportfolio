@@ -3,7 +3,7 @@ import {Container, Row, Col} from 'react-bootstrap'
 import SectionTitle from "../../components/SectionTitle";
 import Team from "../../components/team";
 import teams from '../../data/team'
-import testimonials from '../../data/testimonial'
+// import testimonials from '../../data/testimonial'
 
 const PersonalPortfolioTeam = () => {
     return (
