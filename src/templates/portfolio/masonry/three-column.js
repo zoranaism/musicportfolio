@@ -23,7 +23,7 @@ const PortfolioMasonryThreeColumn = ({portfolios, loading, fullWidth}) => {
                 <Col style={{marginTop: "80px"}}>
                     <SectionTitle
                         title={"Where Music Took Me"}
-                        content={"Music has led me from classrooms to stages and studios, shaping my craft through performing, teaching, and creating along the way."}
+                        content={"Partake in my journey across many stages. Each one highlights a unique experience and new level of creativity."}
                     />
                 </Col>
             </Row>

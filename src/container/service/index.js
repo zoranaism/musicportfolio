@@ -13,7 +13,7 @@ const PersonalPortfolioService = () => {
                         <Col>
                             <SectionTitle
                                 title={"Let’s Work Together"}
-                                content={"Whether you need live music, professional production, or personalized lessons, I’ll help turn your vision into reality through creativity and collaboration."}
+                                content={"I can help you turn your vision into reality through creativity and collaboration. No matter if it's live music, professional production, or personalized lessons."}
                             />
                         </Col>
                     </Row>
@@ -27,6 +27,43 @@ const PersonalPortfolioService = () => {
                                 />
                             </Col>
                         ))}
+                    </Row>
+                    <Row>
+                        <Col  md={12} className={'mt-40 mb-xs-30'}>
+                            <SectionTitle
+                                title={"Why Choose Me"}
+                                content={""}
+                            />
+                        </Col>
+
+                        <Col md={6} className={'mb-40 mb-xs-30'}>
+                            <Service
+                                title="Versatility"
+                                content="I move confidently across genres, ensuring your project gets the sound it needs."
+                            />
+                        </Col>
+
+                        <Col md={6} className={'mb-40 mb-xs-30'}>
+                            <Service
+                                title="Fresh Ideas"
+                                content="Curiosity drives me to explore new sounds and approaches, bringing originality to our collaboration."
+                            />
+                        </Col>
+
+                        <Col md={6} className={'mb-40 mb-xs-30'}>
+                          <Service
+                                title="Flexibility"
+                                content="I adjust quickly to your requirements, whether you need a creative lead or a supportive partner."
+                            />
+                        </Col>
+
+                        <Col md={6} className={'mb-40 mb-xs-30'}>
+                            <Service
+                                title="⁠Professionalism"
+                                content="I work with openness and dedication, making the process smooth from start to finish."
+                            />
+                        </Col>
+
                     </Row>
                 </Container>
             </div>
