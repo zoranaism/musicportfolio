@@ -27,6 +27,7 @@ const PortfolioMasonryThreeColumn = ({portfolios, loading, fullWidth}) => {
                     />
                 </Col>
             </Row>
+                <div className='ml-2'>click to read more</div>
             <Row className={'row-7 portfolio-column-three masonry-grid mb-1'}>
                 {portfolios.map(portfolio => (
                     <Col key={portfolio.id} md={6} lg={4} className={'mb-15'}>

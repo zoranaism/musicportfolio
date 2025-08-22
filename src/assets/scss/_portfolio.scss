@@ -6,6 +6,13 @@
 .portfolio-item {
   position: relative;
 
+   
+  &:hover {
+    & .portfolio-image::before {
+      opacity: 0.6;
+    }
+  }
+
   // portfolios Image
   & .portfolio-image {
     display: block;
