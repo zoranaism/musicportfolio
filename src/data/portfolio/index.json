@@ -3,10 +3,9 @@
     "id": 1,
     "title": "Metal Keyboardist",
     "category": "Metal Keyboardist",
-    "thumb": "portfolio-12.1.jpg",
+    "thumb": "portfolio-12.1.png",
     "description": "I currently perform as the keyboardist for Onyx Eyes, a symphonic progressive metal band, bringing cinematic layers, rich textures, and technical precision to our compositions and live shows. I am deeply honored to have been invited to the Second Keys Collab 2025, organized by Mood Yassin and ProgSpace, where I was featured alongside world-class keyboardists such as Peter Jones (Haken) and Ro1 Rohan Sharma. Over the years, I have also contributed to smaller metal bands, honing my craft and versatility, and I occasionally share metal shred covers on my YouTube, exploring creative arrangements and pushing my technical limits. My work blends collaboration, technical skill, and musical creativity, whether in the studio, on stage, or online, and I thrive on adding depth and drama to heavy, progressive, and symphonic metal projects.",
        "previewYouTube": [
-      "https://www.youtube.com/watch?v=0d-y8JVLLZc", 
         "https://www.youtube.com/watch?v=etWyCQUJHi4"
     ],
  "previewImages": [
@@ -37,8 +36,8 @@
      "previewYouTube": [
     ],
  "previewImages": [
-    "portfolio-2.1.jpg",
-    "portfolio-2.2.jpg"
+    "portfolio-2.2.png", 
+    "masonry-portfolio-2.jpg"
   ],
   "meta": {
     "client": "Independent Young Artists",
@@ -90,9 +89,8 @@
        "previewYouTube": [
     ],
  "previewImages": [
-   "portfolio-4.2.jpg",
-   "portfolio-4.3.jpg",
-   "portfolio-4.1.jpg"
+   "portfolio-7.jpg",
+   "portfolio-4.4.jpg"
     ],
     "meta": {
       "client": "British Emirates School Dubai, Royal Institute of Music Dubai, City Children's Choir Serbia, Kuwaiti American School Kuwait, Muziekles Den Bosch Netherlands",
@@ -105,34 +103,9 @@
       ]
     }
   },
+
   {
     "id": 5,
-    "title": "Interactive Music Entertainer",
-    "category": "Choir Workshop",
-    "thumb": "portfolio-5.jpg",
-"description": "I create fun and inspiring musical experiences for kids, adults, and groups of any size. I have led many activities for birthdays, team-building events, company gatherings, and even my own celebrations. As a music teacher, I always have a fun activity ready to fill gaps or entertain children, and I bring the same energy to adults, making every session enjoyable and engaging. Activities include music workshops and group classes, team-building exercises, birthday and special event entertainment, interactive music games, creative group exercises, instrument exploration, and fun musical challenges. Every session is designed to encourage participation, creativity, and connection, making music a shared and memorable experience.",       "previewYouTube": [
-    ],
- "previewImages": [
-      "portfolio-5.1.jpg",
-      "portfolio-5.2.jpg"
-    ],
-    "meta": {
-      "client": "Rashed Jerry",
-      "date": "01/05/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Music Workshops & Group Classes",
-        "Team Building Activities",
-        "Birthday & Special Event Entertainment",
-        "Interactive Music Games",
-        "Creative Group Exercises",
-        "Instrument Exploration & Introduction",
-        "Fun Musical Challenges"
-      ]
-    }
-  },
-  {
-    "id": 6,
     "title": "Academic Workshops & Lectures",
     "category": "Lectures",
     "thumb": "portfolio-6.1.png",
@@ -140,23 +113,46 @@
        "previewYouTube": [
     ],
  "previewImages": [
-         "portfolio-2.1.jpg",
-    "portfolio-2.2.jpg"
+   "portfolio-6.1.png",
+   "portfolio-2.1.png"
     ],
     "meta": {
       "client": "Tasnim Khatun",
       "date": "29/09/2021",
       "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+  "services": [
+      "Lecturing",
+      "Music Research",
+      "Essays"
+    ]
     }
   },
+  {
+  "id": 6,
+  "title": "Women's Singing Circle",
+  "slug": "womens-singing-workshop",
+  "category": "Workshop",
+  "thumb": "portfolio-14.jpg",
+  "description": "I lead workshops for women that awaken your forgotten singing experience. Each session explores different styles—from calm and grounded exercises, to soulful and funky songs, to playful, feminine tracks. These gatherings are a safe space for ladies only, ideal for anyone who has been part of a choir or singing group. I particularly enjoy the calm, meditative versions, helping participants reconnect with their voice and creativity in a nurturing environment.",
+  "previewYouTube": [],
+  "previewImages": [
+    "portfolio-14.jpg",
+    "portfolio-14.1.jpg"
+  ],
+  "meta": {
+    "client": "Zoranaism",
+    "date": "2025/09/04",
+    "website": "https://www.zoranaism.com",
+    "services": [
+      "Vocal Workshops",
+      "Women's Choir",
+      "Group Singing"
+    ]
+  }
+},
 {
   "id": 7,
-  "title": "Songwriting, Orchestrating & Compositing",
+  "title": "Songwriting, Orchestrating & Composing",
   "slug": "songwriting-orchestration-composition",
   "category": "Composer",
   "thumb": "portfolio-15.jpg",
@@ -166,7 +162,6 @@
       "https://www.youtube.com/watch?v=YvoYn4KWONw"
     ],
  "previewImages": [
-    "portfolio-15.jpg"
   ],
   "meta": {
     "client": "Filmmakers, Ad Agencies, Game Studios",
@@ -185,28 +180,36 @@
   
   {
     "id": 8,
-    "title": "Music Project & Event Producer",
+    "title": "Music & Education Project Producer",
     "slug": "music-project-event-producer",
     "category": "Community & Nonprofit",
     "thumb": "portfolio-11.jpg",
-    "description": "Founded and directed a nonprofit supporting creativity and authenticity in the music industry through podcasts, educational workshops, and mentorship programs.",
+    "description": "I develop and lead initiatives that support creativity, education, and professional growth for youth and artists. My work includes founding a city children’s choir in Prokuplje, managing kids, parents, sponsors, and municipal support; leading a Ministry-funded six-month project in Serbia (2013) supporting children with disabilities; and running HER@TrON entrepreneurship courses in Kuwait (2017–2019) for mid- and high-school students, teaching business ideation, teamwork, and startup development. I also design workshops on songwriting, producing, and artist development, and co-founded educational startups such as LearnO (AR/VR learning) and Virtual Tour Guide (gamified tourism app). During the corona period, I founded the Stellar Sound Foundation, which hosted the Stellar Sound Podcast, the Stellar EDU Series, and other educational music projects aimed at keeping creativity and learning alive in a time of global isolation. Through all these projects, I focus on mentorship, community building, and empowering participants to explore their creativity and potential.",
        "previewYouTube": [
-      "https://www.youtube.com/watch?v=SlN0Twjrx6k"
+                "https://www.youtube.com/watch?v=3vQz9akz6PM"
+
     ],
  "previewImages": [
-  
+  "portfolio-11.1.png"
     ],
     "meta": {
       "client": "Stellar Sound Foundation",
       "date": "01/09/2019",
       "website": "https://stellarsoundfoundation.org",
-      "services": [
-        "Podcast Production & Musician Interviews",
-        "Educational Workshop Series (Songwriting, Producing)",
-        "Artist Mentoring & Networking",
-        "Community Building & Nonprofit Leadership",
-        "Creative Concept Development"
-      ]
+  "services": [
+    "Podcast Production & Musician Interviews",
+    "Educational Workshop Series (Songwriting, Producing)",
+    "Artist Mentoring & Networking",
+    "Community Building & Nonprofit Leadership",
+    "Creative Concept Development",
+    "Artist mentoring",
+    "Workshops & education",
+    "Community building",
+    "Creative concept development",
+    "Entrepreneurship programs",
+    "Youth empowerment"
+]
+
     }
   },
 {
@@ -214,12 +217,12 @@
   "title": "Live Pianist and Singer for Special Occasions",
   "category": "Live Pianist",
   "thumb": "portfolio-9.jpg",
-  "description": "I perform live as a pianist and singer for special occasions, creating memorable musical experiences for weddings, private parties, corporate events, and other celebrations. I tailor each performance to the event, combining popular songs, modern arrangements, and unique interpretations to engage and delight guests. Selected performances include Waldorf Astoria Hotel in Ras al Khaimah, Italian Pizzaro in Sharjah, BLÜTHNER HALL in Dubai, Angelina Paris in Kuwait, Bice Ristorante in Kuwait, and numerous private events such as birthdays, anniversaries, and weddings.",
+  "description": "I perform live as a pianist and singer for special occasions, creating memorable musical experiences for weddings, private parties, corporate events, and other celebrations. I tailor each performance to the event, combining popular songs, modern arrangements, and unique interpretations to engage and delight guests. You can enjoy a pleasant atmosphere with pop, jazz, evergreen, rock, and classical songs, perfect for lounge lobbies and luxurious restaurants. The instrumental compositions are arranged in a modern manner with high-end, sophisticated musical choices, featuring unique covers in my signature style. Selected performances include the Nishville Jazz Festival in Serbia, Waldorf Astoria Hotel in Ras Al Khaimah, Italian Restaurant Pizzaro in Sharjah, BLÜTHNER HALL in Dubai, Angelina and BICE Italian Restaurant in Kuwait, Amricani Cultural Center and Al Shaheed Park in Kuwait, as well as numerous private events such as birthdays, anniversaries, and weddings.",
   "previewYouTube": [
     "https://www.youtube.com/watch?v=pMfS8bwHYFc"
   ],
   "previewImages": [
-    "portfolio-9.2.jpg"
+    "portfolio-9.2.png"
   ],
   "meta": {
     "client": "John Doe",
@@ -237,12 +240,11 @@
   "title": "Live Audio-Visual Coding",
   "slug": "live-coding",
   "category": "Live Coding",
-  "thumb": "portfolio-13.jpg",
+  "thumb": "portfolio-11.png",
   "description": "I create live-coded music using Mercury and Hydra, exploring the intersection of programming and musical performance. Although I’ve started this recently, my background as a musician and programmer makes this an exciting new avenue for experimentation. I can’t wait to dive deeper and implement these techniques in some of my future projects, combining code, sound, and visuals to create immersive, evolving performances.",
   "previewYouTube": [],
   "previewImages": [
-    "portfolio-13.jpg",
-    "portfolio-13.1.jpg"
+    "portfolio-11.png"
   ],
   "meta": {
     "client": "Alex Tuntuni",
@@ -252,29 +254,6 @@
       "Live Performance",
       "Music Coding",
       "Visuals"
-    ]
-  }
-}, 
-{
-  "id": 11,
-  "title": "Women's Singing Workshop",
-  "slug": "womens-singing-workshop",
-  "category": "Workshop",
-  "thumb": "portfolio-14.jpg",
-  "description": "I lead workshops for women that awaken your forgotten singing experience. Each session explores different styles—from calm and grounded exercises, to soulful and funky songs, to playful, feminine tracks. These gatherings are a safe space for ladies only, ideal for anyone who has been part of a choir or singing group. I particularly enjoy the calm, meditative versions, helping participants reconnect with their voice and creativity in a nurturing environment.",
-  "previewYouTube": [],
-  "previewImages": [
-    "portfolio-14.jpg",
-    "portfolio-14.1.jpg"
-  ],
-  "meta": {
-    "client": "Zoranaism",
-    "date": "2025/09/04",
-    "website": "https://www.zoranaism.com",
-    "services": [
-      "Vocal Workshops",
-      "Women's Choir",
-      "Group Singing"
     ]
   }
 }
