@@ -1,29 +1,32 @@
 [
- {
-  "id": 1,
-  "title": "Independent Artist",
-  "slug": "zoranaism-music",
-  "category": "Artist",
-  "thumb": "portfolio-1.jpg",
-  "description": "Original compositions and visual concepts blending cinematic soundscapes, progressive influences, and immersive storytelling. Released music and directed music videos under the artist name Zoranaism.",
-    "previewYouTube": [
-    "https://www.youtube.com/watch?v=hD4VnPaudaw"
-  ],
+  {
+    "id": 1,
+    "title": "Metal Keyboardist",
+    "slug": "metal-keyboardist",
+    "category": "Metal Keyboardist",
+    "thumb": "portfolio-12.1.jpg",
+    "description": "I currently perform as the keyboardist for Onyx Eyes, a symphonic progressive metal band, bringing cinematic layers, rich textures, and technical precision to our compositions and live shows. I am deeply honored to have been invited to the Second Keys Collab 2025, organized by Mood Yassin and ProgSpace, where I was featured alongside world-class keyboardists such as Peter Jones (Haken) and Ro1 Rohan Sharma. Over the years, I have also contributed to smaller metal bands, honing my craft and versatility, and I occasionally share metal shred covers on my YouTube, exploring creative arrangements and pushing my technical limits. My work blends collaboration, technical skill, and musical creativity, whether in the studio, on stage, or online, and I thrive on adding depth and drama to heavy, progressive, and symphonic metal projects.",
+       "previewYouTube": [
+      "https://www.youtube.com/watch?v=0d-y8JVLLZc", 
+        "https://www.youtube.com/watch?v=etWyCQUJHi4"
+    ],
  "previewImages": [
-   
-  ],
-  "meta": {
-    "client": "Zorana Lazarevic",
-    "date": "01/01/2018",
-    "website": "https://zoranaism.com",
-    "services": [
-      "Composer & Producer",
-      "Vocalist & Pianist",
-      "Music Video Direction & Editing",
-      "Visual Styling & Creative Branding",
-      "Promotion Strategy & Content Creation",
-      "Independent Release Planning"
-      ]
+      "portfolio-12.jpg"
+    ],
+    "meta": {
+      "client": "Angel Sokina",
+      "date": "29/09/2021",
+      "website": "https://hasthemes.com",
+   "services": [
+      "Shredding",
+      "Metal Keyboardist",
+      "Sound Design",
+      "Custom Patches",
+      "Studio Keyboard Recording",
+      "Live Performance",
+      "Synth Programming",
+      "Composition & Arrangements"
+    ]
     }
   },
 {
@@ -32,7 +35,7 @@
   "slug": "mentoring-young-artists",
   "category": "Mentoring Music Artists",
   "thumb": "portfolio-2.jpg",
-  "description": "Helped emerging musicians shape their creative voice and take their first professional steps in music.",
+  "description": "With years of experience as a musician and creator, I enjoy passing on what I’ve learned to the next generation. In 1-to-1 sessions I work closely with motivated young artists as well as advanced adult students who wish to develop their own independent careers. Over my career, I have guided around 15 students, helping them shape their creative voice and find their artistic direction. Many have performed successfully, some have written tracks that were played on local radio, and many continue to write music today. I introduced them to processes of songwriting, arranging, vocal and instrumental coaching, production, promotion, distribution, and creative concept development, helping them grow into well-rounded, independent artists. My focus is on equipping students with the skills, confidence, and artistic mindset they need to pursue their own careers successfully.",
      "previewYouTube": [
     ],
  "previewImages": [
@@ -47,7 +50,7 @@
       "Guided young artists through songwriting & arrangement",
       "Provided vocal and instrumental coaching",
       "Supported creative concept development",
-      "Introduced digital tools and AI for artistic growth",
+      "Introduced digital tools  for artistic growth",
       "Advised on release planning and promotion",
       "Helped build branding and artist identity",
       "Encouraged long-term artistic development"
@@ -56,11 +59,11 @@
   },
   {
     "id": 3,
-    "title": "Session Musician – Piano, Keys & Vocals",
+    "title": "Session Musician for Piano, Keys & Vocals",
     "slug": "session-musician",
     "category": "Session Musician",
     "thumb": "portfolio-3.jpg",
-    "description": "Studio and live session work for piano, keys, and vocals in recordings and performances.",
+    "description": "I work as a versatile session musician on piano, keys and vocals, collaborating with artists and bands in a wide range of styles. Many of these sessions started through colleagues, friends and recommendations, and I’m now expanding my availability to international projects. I bring creativity, adaptability and professionalism to every collaboration, and I especially enjoy working with emerging artists to bring their music to life.",
        "previewYouTube": [
 "https://www.youtube.com/watch?v=RByV6SmO_GM", 
 "https://www.youtube.com/watch?v=YY5vdlczC_4"
@@ -83,10 +86,10 @@
   {
     "id": 4,
     "title": "International Music Teacher",
-    "slug": "floating-card",
+    "slug": "international-music-teacher",
     "category": "Teaching",
     "thumb": "portfolio-4.jpg",
-    "description": "Teaching piano, keyboard, and music production to students worldwide.",
+    "description": "I teach piano, keyboard, and music production to students worldwide, drawing on years of experience in diverse cultural settings. I have taught at institutions such as the Royal Institute of Music and Dance, Emirates International School in Dubai, and Kuwait American School. Back home, I also founded and led a children’s choir, and I’ve worked on many short-term projects with NGOs, groups, and in 1-to-1 sessions. My teaching combines creative methods, positive leadership, and personalized guidance to help students develop their skills, confidence, and artistic voice. I focus on supporting motivated learners and helping them reach their full potential.",
        "previewYouTube": [
     ],
  "previewImages": [
@@ -111,10 +114,10 @@
   {
     "id": 5,
     "title": "Interactive Music Entertainer",
-    "slug": "minimau-typeface",
+    "slug": "interactive-music-entertainer",
     "category": "Choir Workshop",
     "thumb": "portfolio-5.jpg",
-    "description": "Entertaining and inspiring musical experiences for kids, adults, and groups of any size, perfect for birthdays, team building, and creative gatherings.",
+    "description": "I create fun and inspiring musical experiences for kids, adults, and groups of any size. I have led many activities for birthdays, team-building events, company gatherings, and even my own celebrations. As a music teacher, I always have a fun activity ready to fill gaps or entertain children, and I bring the same energy to adults, making every session enjoyable and engaging. Activities include music workshops and group classes, team-building exercises, birthday and special event entertainment, interactive music games, creative group exercises, instrument exploration, and fun musical challenges. Every session is designed to encourage participation, creativity, and connection, making music a shared and memorable experience.",
        "previewYouTube": [
     ],
  "previewImages": [
@@ -139,10 +142,10 @@
   {
     "id": 6,
     "title": "Academic Workshops & Lectures",
-    "slug": "oil-dog-paint",
+    "slug": "academic-workshops-lectures",
     "category": "Lectures",
-    "thumb": "portfolio-6.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "thumb": "portfolio-6.1.png",
+    "description": "I have designed and delivered workshops and lectures for mid and high school students, covering advanced music topics, interactive discussions, panels, and music history. I have presented a lecture on Japanese music titled “Japan Then and Now” at the University of Niš, Serbia, as part of a JapaNis festival. I also collaborated with Erasmus University Rotterdam to lead a lecture on songwriting and music production. In addition, I have hosted numerous Stellar EDU Series sessions, where I interviewed accomplished songwriters, explored their creative and songwriting processes, and livestreamed these sessions on Twitch and Discord, making them accessible to anyone interested. My lectures and workshops combine practical insights, engaging discussions, and real-world music experience to inspire and educate students of all levels.",
        "previewYouTube": [
     ],
  "previewImages": [
@@ -161,109 +164,37 @@
     }
   },
   {
-    "id": 7,
-    "title": "Classical Pianist",
-    "slug": "hardcover-book-cover",
-    "category": "Classical Pianist",
-    "thumb": "portfolio-7.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-        "previewYouTube": [
-      "https://www.youtube.com/watch?v=fIIsV4P6rQo"    
+  "id": 7,
+  "title": "Songwriting, Orchestrating & Compositing",
+  "slug": "songwriting-orchestration-composition",
+  "category": "Composer",
+  "thumb": "portfolio-15.jpg",
+  "description": "I create original music both for my own projects as an independent artist (Purple Drip) and for other artists or media, including short films, commercials, and video games. Purple Drip is my personal project where I explore original compositions and visual concepts, blending cinematic soundscapes, progressive influences, and immersive storytelling. I enjoy experimenting with different genres and moods, creating music that is both expressive and captivating. As an independent artist, I’ve been developing my own music for several years, and I’m currently exploring new projects ranging from metal to neo-soul. This experience informs my composing work, allowing me to craft music that is versatile and emotionally engaging, whether for personal projects, collaborations, or media productions. I’m especially interested in film scoring, video game music, ambient and atmospheric compositions, and developing cinematic themes that leave a lasting impact.",
+     "previewYouTube": [
+      "https://www.youtube.com/watch?v=hD4VnPaudaw", 
+      "https://www.youtube.com/watch?v=YvoYn4KWONw"
     ],
  "previewImages": [
-      "portfolio-7.1.jpg",
-      "portfolio-7.2.jpg"
-    ],
-    "meta": {
-      "client": "Hassan Al",
-      "date": "11/03/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
-    }
-  },
+    "portfolio-15.jpg"
+  ],
+  "meta": {
+    "client": "Filmmakers, Ad Agencies, Game Studios",
+    "date": "01/09/2021",
+    "website": "https://zoranaism.com",
+    "services": [
+      "Film Scoring & Soundtrack Composition",
+      "Music for Commercials & Ads",
+      "Video Game Music & Soundscapes",
+      "Cinematic Themes & Motifs",
+      "Ambient & Atmospheric Compositions",
+      "Sync-ready Tracks & Licensing"
+    ]
+  }
+},
   {
     "id": 8,
-    "title": "Event Management, Coordination & Curation",
-    "slug": "flying-macbook-m1-chip",
-    "category": "Collaborations",
-    "thumb": "portfolio-8.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-       "previewYouTube": [
-    ],
- "previewImages": [
-  "portfolio-8.jpg",
-      "portfolio-8.1.jpg"
-    ],
-    "meta": {
-      "client": "Tasnim Khatun",
-      "date": "29/09/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
-    }
-  },
-  {
-    "id": 9,
-    "title": "Live pianist for Special Occasions",
-    "slug": "live-pianist",
-    "category": "Live Pianist",
-    "thumb": "portfolio-9.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-       "previewYouTube": [
-        "https://www.youtube.com/watch?v=pMfS8bwHYFc"
-    ],
- "previewImages": [
-      "portfolio-9.jpg",
-       "portfolio-9.2.jpg"    
-    
-    ],
-    "meta": {
-      "client": "John Doe",
-      "date": "31/08/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
-    }
-  },
-  {
-    "id": 10,
-    "title": "Singer",
-    "slug": "singer",
-    "category": "Singer",
-    "thumb": "portfolio-10.jpg",
-    "description": "A live performance project highlighting powerful vocals, immersive stage presence, and a cinematic atmosphere. This work combines storytelling through music with a strong visual identity, creating an engaging experience for both live audiences and online viewers.",
-    "previewYouTube": [
-      "https://www.youtube.com/watch?v=s-2TVo3nCc8", 
-      "https://www.youtube.com/watch?v=WMWQ_zhCvu4"
-    ],
-    "previewImages": [
-      "portfolio-10.1.jpg"
-    ],
-    "meta": {
-      "client": "Nasnim Shatun",
-      "date": "20/08/2025",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Live Performance",
-        "Vocal Recording",
-        "Music Branding"      
-      ]
-    }
-  },
-  {
-    "id": 11,
-    "title": "Music Projects Founder and Executor",
-    "slug": "stellar-sound-foundation",
+    "title": "Music Project & Event Producer",
+    "slug": "music-project-event-producer",
     "category": "Community & Nonprofit",
     "thumb": "portfolio-11.jpg",
     "description": "Founded and directed a nonprofit supporting creativity and authenticity in the music industry through podcasts, educational workshops, and mentorship programs.",
@@ -287,109 +218,77 @@
     }
   },
   {
-    "id": 12,
-    "title": "Metal Keyboardist",
-    "slug": "metal-keyboardist",
-    "category": "Markup",
-    "thumb": "portfolio-12.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "id": 9,
+    "title": "Live pianist and singer for Special Occasions",
+    "slug": "live-pianist-singer",
+    "category": "Live Pianist",
+    "thumb": "portfolio-9.jpg",
+  "description": "I perform live as a pianist and singer for special occasions, creating memorable musical experiences for weddings, private parties, corporate events, and other celebrations. I tailor each performance to the event, combining popular songs, modern arrangements, and unique interpretations to engage and delight guests. Selected performances include Waldorf Astoria Hotel in Ras al Khaimah, Italian Pizzaro in Sharjah, BLÜTHNER HALL in Dubai, Angelina Paris in Kuwait, Bice Ristorante in Kuwait, and numerous private events such as birthdays, anniversaries, and weddings.",
        "previewYouTube": [
-      "https://www.youtube.com/watch?v=0d-y8JVLLZc", 
-      "https://www.youtube.com/watch?v=etWyCQUJHi4&t=202s"
+        "https://www.youtube.com/watch?v=pMfS8bwHYFc"
     ],
  "previewImages": [
-      "portfolio-12.jpg"
-
+       "portfolio-9.2.jpg"    
+    
     ],
     "meta": {
-      "client": "Angel Sokina",
-      "date": "29/09/2021",
+      "client": "John Doe",
+      "date": "31/08/2021",
       "website": "https://hasthemes.com",
       "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
-    }
-  },
-  {
-    "id": 13,
-    "title": "Live Coding Music",
-    "slug": "ipsum-minimau-typeface",
-    "category": "Live Coding",
-    "thumb": "portfolio-13.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-       "previewYouTube": [
-    ],
- "previewImages": [
-      "portfolio-13.jpg",
-      "portfolio-13.1.jpg"
-    ],
-    "meta": {
-      "client": "Alex Tuntuni",
-      "date": "11/11/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Photography"
-      ]
+      "Live Performance",
+      "Event Entertainment",
+      "Music Arrangement"
+    ]
     }
   },
 {
-  "id": 14,
-  "title": "Music Video Producer",
-  "slug": "music-video-producer",
-  "category": "Video Producer",
-  "thumb": "portfolio-14.jpg",
-  "description": "Produced and directed music videos with a strong musical perspective, ensuring visuals enhance and amplify the story of each song. Applied a keen sense for rhythm, emotion, and cinematic details to bring the music to life. Worked on personal projects including 'Purple Drip: Tears of Sorrow' and 'Zoranaism: The Missing Part'.",
-     "previewYouTube": [
-      "https://www.youtube.com/watch?v=YvoYn4KWONw&pp=0gcJCa0JAYcqIYzv", 
-      "https://www.youtube.com/watch?v=NBiIf7ilQE4"
-    ],
- "previewImages": [
-    "portfolio-14.jpg",
-    "portfolio-14.1.JPG"
+  "id": 10,
+  "title": "Live Audio-Visual Coding",
+  "slug": "live-coding",
+  "category": "Live Coding",
+  "thumb": "portfolio-13.jpg",
+  "description": "I create live-coded music using Mercury and Hydra, exploring the intersection of programming and musical performance. Although I’ve started this recently, my background as a musician and programmer makes this an exciting new avenue for experimentation. I can’t wait to dive deeper and implement these techniques in some of my future projects, combining code, sound, and visuals to create immersive, evolving performances.",
+  "previewYouTube": [],
+  "previewImages": [
+    "portfolio-13.jpg",
+    "portfolio-13.1.jpg"
   ],
   "meta": {
-    "client": "Self & Personal Projects",
-    "date": "09/09/2021",
-    "website": "https://zoranaism.com",
+    "client": "Alex Tuntuni",
+    "date": "11/11/2021",
+    "website": "https://hasthemes.com",
     "services": [
-      "Music Video Production & Direction",
-      "Storyboarding & Visual Concept Development",
-      "Rhythm & Mood-driven Editing",
-      "Collaboration with Musicians & Performers",
-      "Color Grading & Cinematic Finishing"
+      "Live Performance",
+      "Music Coding",
+      "Visuals"
     ]
   }
-},
+}, 
 {
-  "id": 15,
-  "title": "Songwriting, Orchestration & Composition",
-  "slug": "composing",
-  "category": "Composer",
-  "thumb": "portfolio-15.jpg",
-  "description": "Composed original music for media projects, including short films, commercials, and video games. Delivered cinematic, atmospheric, and engaging soundtracks tailored to each story.",
-     "previewYouTube": [
-      "https://www.youtube.com/watch?v=lCNSHOf3GrU", 
-      "https://www.youtube.com/watch?v=YvoYn4KWONw"
-    ],
- "previewImages": [
-    "portfolio-15.jpg"
+  "id": 11,
+  "title": "Women's Singing Workshop",
+  "slug": "womens-singing-workshop",
+  "category": "Workshop",
+  "thumb": "portfolio-14.jpg",
+  "description": "I lead workshops for women that awaken your forgotten singing experience. Each session explores different styles—from calm and grounded exercises, to soulful and funky songs, to playful, feminine tracks. These gatherings are a safe space for ladies only, ideal for anyone who has been part of a choir or singing group. I particularly enjoy the calm, meditative versions, helping participants reconnect with their voice and creativity in a nurturing environment.",
+  "previewYouTube": [],
+  "previewImages": [
+    "portfolio-14.jpg",
+    "portfolio-14.1.jpg"
   ],
   "meta": {
-    "client": "Filmmakers, Ad Agencies, Game Studios",
-    "date": "01/09/2021",
-    "website": "https://zoranaism.com",
+    "client": "Zoranaism",
+    "date": "2025/09/04",
+    "website": "https://www.zoranaism.com",
     "services": [
-      "Film Scoring & Soundtrack Composition",
-      "Music for Commercials & Ads",
-      "Video Game Music & Soundscapes",
-      "Cinematic Themes & Motifs",
-      "Ambient & Atmospheric Compositions",
-      "Sync-ready Tracks & Licensing"
+      "Vocal Workshops",
+      "Women's Choir",
+      "Group Singing"
     ]
   }
 }
+
+
 
 ]

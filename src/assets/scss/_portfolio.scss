@@ -299,15 +299,6 @@
           color: $heading-color;
         }
 
-        &::after {
-          content: ",";
-        }
-
-        &:last-child {
-          &::after {
-            display: none;
-          }
-        }
       }
     }
   }
