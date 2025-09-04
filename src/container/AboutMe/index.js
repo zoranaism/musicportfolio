@@ -23,7 +23,7 @@ const AboutMe = ({type}) => {
 
 <p>Music has been close to me since childhood. It runs in my family and filled every celebration, gathering, and good time. That deep connection still fuels my passion and drives me to keep exploring what music can become.</p>
 
-<p>Staying open to change is essential. I watch where music is heading, embrace what is new, and treat every project as a chance to take a different approach. Listening closely helps me understand what is needed, and adapting quickly has become second nature. That's why I value openness and flexibility the most. These values allow me to move between genres, collaborate with ease, and bring out the best in every project I join.</p>
+<p>Staying open to change is essential. I watch where music is heading and treat every project as a chance to take a different approach. Listening closely helps me understand what is needed, and adapting quickly has become second nature. These values allow me to move between genres, collaborate with ease, and bring out the best in every project I join.</p>
 
                         </Content>
                     </Col>

@@ -5,6 +5,7 @@ import Contact from "../../container/contact";
 import Header from "../../components/header/HeaderOne";
 import Footer from "../../components/footer/FooterThree";
 import PersonalPortfolioTeam from "../../container/team";
+import WhyChoseMe from "../../container/whychoseme";
 import PersonalPortfolioService from "../../container/service";
 import BannerPersonalPortfolio from "../../components/HeroBanner/PersonalPortfolio";
 import AboutMe from "../../container/AboutMe"
@@ -22,6 +23,7 @@ const HomePersonalPortfolio = () => {
             <AboutMe />
             <PersonalPortfolioService/>
             <PortfolioMasonryThreeColumn portfolios={portfolios} loading={false} fullWidth={true}/>
+            <WhyChoseMe />
             <PersonalPortfolioTeam/>
             <Contact/>
             <Footer position={'static'}/>
